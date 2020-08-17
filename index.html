@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>index.html</title>
+	<meta charset="windows-1252">
+    <meta name="description" content="EMF Generation">
+    <meta name="keywords" content="HTML,CSS,XML,JavaScript">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui">
+    <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+    <link rel="stylesheet" type="text/css" href="assets/css/home.css">
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+    </script>
+    <script src="https://kit.fontawesome.com/b99e675b6e.js" crossorigin="anonymous"></script>
+
+    <!-- <link rel="stylesheet" type="text/css" href="style.css">
+ -->
+</head>
+<body bgcolor="#fff";data-demo-id="animation"; style="width=100%" onload="init()">
+        <div class="wholebody">
+
+            <div style="font-size:30px; color:white; text-align:center;  ;padding-left:20px; height:40px;  background-color: #003366; border: 2px solid black; " ;><marquee onmouseover="this.stop();" onmouseout="this.start();"  scrollamount="8" direction="left"><b style="text-align: center;">POWER ELECTRONICS VIRTUAL LABORATORY</b></marquee></div>
+
+            <div style="font-size:30px; text-align:center;color: #fff ;padding-left:20px; height:40px;  background-color:#003366"><b>HALF CONTROLLED RECTIFIER</b><div id="home"><a href="index.html"><i class="fas fa-home home-icon" ></i></a></div></div>
+
+            <div class="wrapper">
+            <div class="sidebar">
+                <h2>MENU</h2>
+                <ul>
+            <li><a href="index.html"><i class="fas fa-address-book"></i>Theory</a></li>
+            <li><a href="procedure.html"><i class="fas fa-cogs"></i>Procedure</a></li>
+            <li><a href="pre_test.html"><i class="fas fa-edit"></i>Pre-Test</a></li>
+            <li><a href="Simulator.html"><i class="fas fa-desktop"></i>Simulator</a></li>
+            <li><a href="Post_test.html"><i class="fas fa-edit"></i>Post-test</a></li>
+            <li><a href="refrence.html"><i class="fas fa-address-book"></i>References</a></li>
+                </ul> 
+            </div>
+            <div class="main_content">
+            	<div class="info">
+        
+             
+                <div style="font-size: 25px; font-style: bold; color: red"><b>AIM:</b></div>
+                <div style="font-size: 20px;font-style: bold; color: black"><b>To study the Half Wave Controlled Rectifier with a Resistive Load.
+                </b></div>
+                <div style="font-size: 25px; font-style: bold; color: red"><b>OBJECTIVES:</b></div>
+                <div style="font-size: 20px;font-style: bold; color: black"><b> At the end of the module the student would be able to-</b></div>
+                <div style="font-size: 20px;font-style: bold; color: black"><b>1.Phase Controlled Rectification </b></div>
+<div style="font-size: 20px;font-style: bold; color: black"><b>2.Single Phase Half Wave Controlled</b></div>
+ <div style="font-size: 25px; font-style: bold; color: red"><b>THEORY:</b></div>
+ <div style="font-size: 20px;font-style: bold; color: black"><b>The circuit diagram of single phase half wave controlled rectifier with resistive R load is shown in Fig. 1. This is the simplest form of controlled rectifier which consists of a single thyristor feeding DC power to a resistive load. </b></div><p>
+                         <img src="assets/images/top.jpg" align="center" width=300px height=200px;></p></div>
+                         <div style="font-size: 20px;font-style: bold; color: blue; text-align: center;margin-bottom: 10px"><b>Fig. 1. Half wave controlled rectifier with resistive R load </b></div>
+                        <div style="font-size: 20px;font-style: bold; color: black; margin-bottom: 10px"><b>  For the supply voltage of  , the SCR can conduct only when anode voltage is positive and a gate signal is applied. Therefore, the rectification process of half wave controlled rectifier can be explained as:</b></div>
+
+
+<div style="font-size: 20px;font-style: bold; color: black; margin-bottom: 6px"><b>  1. During the positive half-cycle of the supply voltage, the SCR is forward-biased and will conduct if a trigger is applied to the gate. Let, SCR is triggered at some firing angle α, the load current flows and the output voltage Vo will be the same as the input voltage</b></div>
+<div style="font-size: 20px;font-style: bold; color: black; margin-bottom: 6px"><b>  2. At time t = π, the current falls natural to zero, since the SCR is reverse-biased. Therefore, During the negative half-cycle, the SCR blocks the flow of current, and no voltage is applied to the load. </b></div>
+<div style="font-size: 20px;font-style: bold; color: black; margin-bottom: 10px"><b>  3. The SCR stays off until the gate signal is applied again at (α + 2π). </b></div>
+<div style="font-size: 20px;font-style: bold; color: black ;margin-bottom: 10px"><b>  The period from 0 to α in Fig. 2 represents the time in the positive half-cycle when the SCR is off. This angle (measured in degrees) is called the firing angle (α). The SCR conducts from α to π; this angle is called the conduction angle (θ).</b></div></div>
+
+
+
+ 
+</div>
+
+
+<div>
+    <div class="sidebar1"></div>
+    <div class="formula">
+    <p>The average or DC value of the load voltage is given by</p>
+    <br>
+    <b><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>V<sub>a,avg</sub> = V<sub>m</sub>/2&#120587;(1+cos &prop;) </b>(1)
+    <br>
+    <p>The RMS value of the load voltage is given by</p>
+    <br>
+    <b><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>V<sub>or</sub> = V<sub>m</sub>/ &radic;(2&#120587;)   [(&#120587;-&prop;)+1/2(sin 2&prop;)]</b>         (2) 
+    <br>
+    <p>The average or DC value of the load current is given by</p>
+    <br>
+    <b><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>I<sub>o,avg</sub> = V<sub>o,avg</sub>/R = V<sub>m</sub>/2&#120587;R  (1+cos&prop;)</b>        (3)
+    <br>
+    <p>Increasing α by firing the SCR later in the cycle lowers the voltage, and vice versa. The maximum average output voltage occurs when α = 0° and given by</p>
+    <br>
+    <b><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>V<sub>o,m</sub> = V<sub>m</sub>/2&#120587;   (1 + cos0) = V<sub>m</sub>/&#120587;</b>      (4)
+    <br>
+    <p>This is the same voltage as for a half-wave diode rectifier. Therefore, if the SCR is fired at α = 0°, the circuit acts like a diode rectifier.
+</p>
+    <br>
+    <br>
+    <div style="position: center;">
+    <img src="assets/images/bottom.jpg" height="400px">
+    <br>
+    <br>
+    <p style="color: blue;font-size: 20px;font-style: bold; margin-left: 33%;">Fig. 2. Voltage and Current Waveforms</p>
+    <br>
+    <br>
+</div>
+</div>
+</div>
+</div>
+
+
+            
+        
+
+             
+
+</body>
+</html>
