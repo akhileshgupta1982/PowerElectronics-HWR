@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css?family=Akronim+Sans&display=swap');
+body{margin:0; 
+        padding:0;}
+.clearfix { clear:both; }
+
+.mrq{
+  font-size:30px;
+  font-style: bold; 
+  color:white; 
+  text-align:center;  
+  padding-left:20px; 
+  height:40px;
+  background-color: #1E90FF;
+}
+.mrq2{
+   font-size:30px; 
+   text-align:center;
+   color: #fff;
+   padding-left:20px; 
+   height:40px;  
+   background-color:#003366;
+}
+.home-icon{
+  float: right;
+  color: white;
+  margin-right: 10px;
+}
+.hcr_img{
+  margin-left: 40%;
+  border: 3px solid red;
+
+}
+/*.wholebody {
+    margin:0 auto;
+    width:auto; 
+    height:auto;
+   background-color:white;
+   border:50px solid #000069; 
+   position:absolute;
+   top:0px;*/
+/*                
+}
+#home{
+    vertical-align: middle;
+    float: right;
+    color: white;
+    background-color: white;
+    font-size: 32px;
+    margin-top: 2px;
+    transition: all 0.3s ease;
+}
+
+
+
+
+.wrapper{
+  display: flex;
+  position: relative;
+}
+
+.wrapper .sidebar{
+  width: 200px;
+  height: 100%;
+  background: #003366;
+  padding: 30px 0px;
+  position: absolute;
+ }
+
+.wrapper .sidebar h2{
+  color: #fff;
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.wrapper .sidebar ul li{
+  padding: 15px;
+  border-bottom: 1px solid #4E9CAF;
+  border-bottom: 1px solid rgba(0,0,0,0.05);
+  border-top: 1px solid rgba(255,255,255,0.05);
+}    
+
+.wrapper .sidebar ul li a{
+  color: #bdb8d7;
+  display: block;
+}
+
+.wrapper .sidebar ul li a .fas{
+  width: 25px;
+}
+
+.wrapper .sidebar ul li:hover{
+  background-color: #1E90FF;
+}
+    
+.wrapper .sidebar ul li:hover a{
+  color: #fff;
+}
+ 
+
+
+.wrapper .main_content{
+  
+  margin-left: 200px;
+}
+
+.wrapper .main_content .header{
+  padding: 20px;
+  background: #fff;
+  color: #717171;
+  border-bottom: 1px solid #e0e4e8;
+}
+
+.wrapper .main_content .info{
+  margin: 25px;
+  color: #000000;
+  line-height: 25px;
+}
+
+.wrapper .main_content .info div{
+  margin-bottom: 20px;
+}
+
+
+}
+}*/

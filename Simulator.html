@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="windows-1252">
+  <meta name="description" content="EMF Generation">
+  <meta name="keywords" content="HTML,CSS,XML,JavaScript">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui">
+  <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+  <link rel="stylesheet" type="text/css" href="style.css"> 
+  <script type="text/javascript" src="sin_plot1.js"></script>
+	<script type="text/javascript" src="fr_change.js"></script>
+	<script type="text/javascript" src="Vm_change.js"></script> 
+	<script type="text/javascript" src="fa_change.js"></script>
+  <script type="text/javascript" src="V_avr.js"></script>
+	<script type="text/javascript" src="vmax_change.js"></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Simulator</title>
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+
+  
+</head>
+ <body bgcolor="#000066" data-demo-id="animation"; style=onload="init()">
+      <a href="index.html" style="color: white; text-decoration: none; text-align: center;"><button type="button" class="btn" style="margin-left: 45%;">HOME</button></a>
+
+    <div class="wholebody" >
+      <div class="heading">
+        <b>Half Controlled Rectifier</b>
+      </div>
+      <div id="description">
+        <div class="border"><p class="sub_heading">INSTRUCTIONS</p></div>
+        <div id="instruction">
+				<ol type="1">
+					<li>Connections are explained below	:<br>L1-L2, L4-L5, L6-L7, L7-L8, L9-L10, L10-L11, L11-L12.</li>
+				  <li> L3 is connected to external firing circuit not mentioned here.</li>	
+          <li>Set the  peak value of input supply Vp.</li>                          
+          <li>Set the  frequency of input supply fo.</li>
+          <li>Set the y-axis range Vmax [Vmax = at least 2Vp] </li>
+          <li>Set the  x-axis range Tmax. </li>
+          <li>Set the value of firing angle alpha.</li> 
+          <li>Click on draw waveform.</li>
+					<li>Calculate Output Average Voltage \[Vo,avg = {Vm \over 2\pi}(1 + cos \alpha)\]</li> 
+				  <li>Calculate Output RMS Voltage \[Vo,rms = {Vm \over 2\sqrt\pi}[(\pi - \alpha) + {1\over2}sin 2\alpha]^{1\over2}\]</li>
+        </ol> 
+			 </div>
+      </div>
+             
+
+      <div id="calculationsection">
+        <div class="border"><p class="sub_heading">CALCULATION</p></div>
+        <div id="calculate"><br>
+          <form name="myForm" method = "get" style="width:500px; font-size: medium; font-family:Arial">
+	           <th>Vp (V) Peak Voltage</th>
+			        <th><input type="range" orient="vertical" id="Vp" min="200" max="450" step='5' value="200"  oninput="Vchange()" enabled=true;></th>
+			          <input type="text" id="Voltage_amplitude" placeholder="Voltage_amplitude (200V)" readonly >  <label id="Voltage_amplitude">V</label><br>Firing angle alpha
+			          <input type="range" orient="vertical" id="FA" min="0" max="90" step='1' value="0" oninput="FAG()" enabled=true>
+                <input type="text" id="FAN" placeholder="Firing angle (0)" readonly >  <label id="FAN">Degree</label><br>fo (Hz) Sine frequency
+                <input type="range" orient="vertical" id="fo" min="20" max="100" step='5' value="20" size = "4" oninput="Frq()" enabled=true;>
+                <input type="text" id="Frequency" placeholder="Frequency (20 Hz)" readonly >  <label id="Frequency">Hz</label><br>Vmax (V) for plot
+                <input type="range" orient="vertical" id="Vmax" min="410" max="910" step='10' value="410"  oninput="Vrange()" enabled=true;>
+                <input type="text" id="V_max" placeholder="Range of y-axis at least 2Vp (410)" readonly >  <label id="V_max">V</label><br>Tmax (s) for plot
+                <input type="range" orient="vertical" id="Tmax" min="0.1" max="1" step='0.1' value="0.1"  oninput="Trange()" enabled=true;>
+                <input type="text" id="T_max" placeholder="Range of x-axis (0.1)" readonly >  <label id="T_max">sec</label><br>
+
+
+            <p>  
+              <table style="width: 100%;">
+              <tr>
+                <th>Total points for plot</th>
+                <th><input type="text" name="N" size="10" value="100000"></th>
+              </tr>
+              <tr>
+                <td colspan="2" style="text-align: center !important;"><input type="button" value="Draw Waveform" onclick="draw()"></td>
+              </tr>
+              <tr>
+                <td><input type = "button" value = "Average_Voltage"  onclick = "V_avg();" ></td>
+                <td><output name = "Average_Voltage"></output></td>
+              </tr>
+              <tr>
+                <td><input type = "button" value = "RMS_Voltage"  onclick = "V_rms();" ></td>
+                <td><output name = "RMS_Voltage"></output></td>
+              </tr>
+	           </table>
+            </form>
+          </p>
+        </div>
+        </div>
+
+
+        <div id="circuitsection">
+          <div class="border"><p class="sub_heading">CIRCUIT</p></div>
+            <div id="circuit">
+              <p><img src="HCR.jpg" width=450px;height=450px;/></p>
+            </div>
+        </div>
+
+        <div id="outputsection">
+          <div class="border"><p class="sub_heading">OUTPUT GRAPH</p></div>
+            <div id="out"><br><br><br><br>
+              <p><canvas id="canvas" width="501" height="201"></canvas></p>
+					  </div>
+        </div>        
+    </div>
+
+
+
+
+          
+
+</body>
+</html>
