@@ -1,4 +1,4 @@
-## Introduction (Round 0)
+
 
 <br>
 
@@ -54,7 +54,7 @@ Power Electronics: Courses aligned
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
 1 | Dr. Akhilesh Kumar Gupta| Faculty | EE | B.N.C.E.T, Lucknow | akhileshgupta08@gmail.com
-2 |akhileshgupta08@gmail.com | Student | EE | B.N.C.E.T, Lucknow |siddhantpratapsingh46@gmail.com
+2 |Siddhant Pratap Singh | Student | EE | B.N.C.E.T, Lucknow |siddhantpratapsingh46@gmail.com
 3 | Anwar Abbas | Student | Computer Science | B.N.C.E.T, Lucknow |anwarabbas660@gmail.com
 4 | Sakshi Agarwal | Student | Computer Science | B.N.C.E.T, Lucknow |sasakshiagarwal369@gmail.com
 5 |Shah Alam  | Student | Computer Science | B.N.C.E.T, Lucknow |shahalama44@gmail.com
