@@ -15,7 +15,7 @@ Q.2. A voltage source 200sin*(314t) is applied to a thyristor controlled half-wa
 
 
 Q.3. A half wave controlled rectifier has a forward resistance RF. The voltage is Vmsinωt and the load resistance is RL. The DC current is given by<br>
-(a)	              <br>
+(a)V<sub>a,avg</sub> = V<sub>m</sub>/2&#120587;(1+cos &prop;) </b>(1)          <br>
 (b)	               <br>
 (c)	                <br>
 (d)	                <br>
