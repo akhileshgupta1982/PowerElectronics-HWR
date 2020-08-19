@@ -1,4 +1,4 @@
-## Pre-test
+﻿## Pre-test
 #### Please attempt the following questions
 
 Q.1. When a thyristor if forward biased, the number of blocked p-n junctions is<br>
@@ -25,7 +25,7 @@ Q.4. The SCR ratings, di/dt in A/µsec and dv/dt in V/µsec, may vary, respectiv
 (c)	Both 10 to 100<br>
 (d)	50 to 300, 20 to 500<br>
 
-Q.5. When a thyristor if forward biased, the number of blocked p-n junctions is<br>
+Q.5. When a thyristor if reverse biased, the number of blocked p-n junctions is<br>
 (a)	1<br>
 <b>(b)	2</b><br>
 (c)	3<br>

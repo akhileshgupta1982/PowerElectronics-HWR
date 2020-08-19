@@ -1,1 +1,1 @@
-#### BN College Of Engineering and Technology
+#### B N College Of Engineering and Technology
