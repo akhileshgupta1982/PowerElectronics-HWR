@@ -2,9 +2,13 @@
 #### Please attempt the following questions
 
 Q.1. When a thyristor if forward biased, the number of blocked p-n junctions is
+
 <b>(a)	1</b>
+
 (b)	2
+
 (c)	3
+
 (d)	4
 
 
