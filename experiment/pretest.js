@@ -90,29 +90,49 @@
 
   const myQuestions = [
     {
-      question: "This is question 1?",  ///// Write the question inside double quotes
+      question: "When a thyristor if forward biased, the number of blocked p-n junctions is",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "1",                  ///// Write the option 1 inside double quotes
+        b: "2",                  ///// Write the option 2 inside double quotes
+        c: "3",                  ///// Write the option 3 inside double quotes
+        d: "4"                   ///// Write the option 4 inside double quotes
       },
       correctAnswer: "a"                ///// Write the correct option inside double quotes
     },
+    
 
     {
-     question: "This is question 2?",  ///// Write the question inside double quotes
+     question: "In a thyristor",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "Latching current IL is associated with turn-off process and holding current IH with turn-on process",                  ///// Write the option 1 inside double quotes
+        b: "Both IL and IH are associated with turn-off process",                  ///// Write the option 2 inside double quotes
+        c: "IH is associated with turn-off process and IL with turn-on process.",                  ///// Write the option 3 inside double quotes
+        d: "Both IL and IH are associated with turn-off process"                   ///// Write the option 4 inside double quotes
       },
-      correctAnswer: "b"                ///// Write the correct option inside double quotes
+      correctAnswer: "c"                ///// Write the correct option inside double quotes
     },                                  ///// To add more questions, copy the section below 
     									                  ///// this line
 
-
+    {
+      question: "In a thyristor, the ratio of holding current to latching current is",
+      answers: {
+        a: "0.4",
+        b: "1.0",
+        c: "2.5",
+        d: "4.0"
+      },
+      correctAnswer: "a"
+    },    
+    {
+      question: "When a thyristor if forward biased, the number of blocked p-n junctions is",
+      answers: {
+        a: "1",
+        b: "2",
+        c: "3",
+        d: "4"
+      },
+      correctAnswer: "b"
+    },
     /* To add more MCQ's, copy the below section, starting from open curly braces ( { )
         till closing curly braces comma ( }, )
 
@@ -122,14 +142,14 @@
     Copy below section
 
     {
-      question: "This is question n?",
+      question: "In a thyristor, the ratio of holding current to latching current is",
       answers: {
-        a: "Option 1",
-        b: "Option 2",
-        c: "Option 3",
-        d: "Option 4"
+        a: "0.4",
+        b: "1.0",
+        c: "2.5",
+        d: "4.0"
       },
-      correctAnswer: "c"
+      correctAnswer: "a"
     },
 
     Copy above section
