@@ -1,4 +1,4 @@
-## <b> Pre-test
+## Pre-test
 #### Please attempt the following questions
 
 Q.1. When a thyristor if forward biased, the number of blocked p-n junctions is<br>
