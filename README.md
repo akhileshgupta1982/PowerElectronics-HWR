@@ -27,14 +27,14 @@ At the end of the module the student would be able to
 
 
 <h5> Target Audience : </h5>
- 3rd year Electrical Engineering students: The target audience
+ 3rd year Electrical Engineering students and Electrical and Electronics faculties
 
 <h5> Course Alignment : </h5>
 
-Power Electronics: Courses aligned
+Power Electronics
 
 <h5> Universities Mapped : </h5>
-(63) (REE 661) To obtain the simulation of single phase half wave controlled rectifier with R and RL load and plot load voltage and load current waveforms: Universities mapped
+AKTU:(REE 661) To obtain the simulation of single phase half wave controlled rectifier with R and RL load and plot load voltage and load current waveforms
   
 
 <b>Name of Developer | <b>Dr. Akhilesh Kumar Gupta 
