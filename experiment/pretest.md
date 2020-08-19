@@ -1,32 +1,28 @@
 ## <b> Pre-test
 #### Please attempt the following questions
 
-1) Interference occurs due to _______ of the light.<br>
-<b>a) Wave nature<br></b>
-b) particle nature<br>
-c) both a and b<br>
-d) none of these<br>
-
-2) Superposition of crest over crest results in __________ .<br>
-a) Destructive interference<br>
-<b> b) Constructive interference<br></b>
-c) Diffraction<br>
-d) Polarization<br>
-
-3) If two waves with amplitude (y1) and (y2) travelling in the same medium reach at a point in the medium, then the resultant displacement at that point in the medium, will be given by __________ .<br>
-a) y1 -y2<br>
-<b>b) y1 + y2<br></b>
-c) y1 / y2<br>
-d) y1 * y2<br>
-
-4) The condition for destructive interference is: the path difference should be equal to __________. <br>
-<b>a) Odd integral multiple of wavelength<br></b>
-b) Integral multiple of wavelength<br>
-c) Odd integral multiple of half wavelength<br>
-d) Integral multiple of half wavelength<br>
-
-5) In Newton's ring experiment, the diameter of the dark rings is proportional to __________ .<br>
-a) Odd natural numbers<br>
-b) Even natural numbers<br>
-c) Complex numbers<br>
-<b>d) square root of natural numbers<br></b>
+Q.1. When a thyristor if forward biased, the number of blocked p-n junctions is
+<b>(a)	1</b>
+(b)	2
+(c)	3
+(d)	4
+Q.2. In a thyristor
+(a)	Latching current IL is associated with turn-off process and holding current IH with turn-on process.
+(b)	Both IL and IH are associated with turn-off process.
+<b>-</b>(c)	IH is associated with turn-off process and IL with turn-on process.
+(d)	Both IL and IH are associated with turn-off process.
+Q.3. In a thyristor, the ratio of holding current to latching current is
+(a)	0.4
+(b)	1.0
+(c)	2.5
+(d)	4.0
+Q.4. The SCR ratings, di/dt in A/µsec and dv/dt in V/µsec, may vary, respectively, between
+(a)	20 to 500, 10 to 100
+<b>(b)	Both 20 to 500</b>
+(c)	Both 10 to 100
+(d)	50 to 300, 20 to 500
+Q.5. When a thyristor if forward biased, the number of blocked p-n junctions is
+(a)	1
+<b>(b)	2</b>
+(c)	3
+(d)	4
