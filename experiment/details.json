@@ -2,44 +2,44 @@
 
    "details": [
        {
-			"Experiment": "",     
-			"Lab": "",               
-			"Discipline": "",				 
-			"Technology": ""         
+			"Experiment": "1. (661) To obtain the simulation of single phase half wave controlled rectifier with R and RL load and plot load voltage and load current waveforms.f",     
+			"Lab": "Power Electronics",               
+			"Discipline": "Electrical Engineering",				 
+			"Technology": "HTML,CSS,JAVASCRIPT,BOOTSTRAP"         
        }
    ],
 
    "developer": [
        {       
-      "Developer": "",         
-      "Institute": "",         
-      "InstituteAcronym": ""   
+      "Developer": "Name of Developer	Dr. Akhilesh Kumar Gupta ",         
+      "Institute": "BN College Of Engineering and Technology",         
+      "InstituteAcronym": "BNCET"   
        }
    ],
 
    "contributer": [
        {       
-			"Contributer": "",             
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "Sakshi Agarwal",             
+      "Institute": "BN College Of Engineering and Technology",               
+			"InstituteAcronym": "BNCET"         
        },
 
        {       
-			"Contributer": "",              
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "Siddhant Pratap Singh",              
+      "Institute": "BN College Of Engineering and Technology",               
+			"InstituteAcronym": "BNCET"         
        },
 
        {       
-			"Contributer": "",             
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "Shah Alam",             
+      "Institute": "BN College Of Engineering and Technology",               
+			"InstituteAcronym": "BNCET"         
        },
 
        {       
-			"Contributer": "",              
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "Anwar Abbas",              
+      "Institute": "BN College Of Engineering and Technology",               
+			"InstituteAcronym": "BNCET"         
        }
    ]
 
