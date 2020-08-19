@@ -18,7 +18,7 @@ Q.2. In a thyristor
 
 (b)	Both IL and IH are associated with turn-off process.
 
-<b>-</b>(c)	IH is associated with turn-off process and IL with turn-on process.
+<b>(c)	IH is associated with turn-off process and IL with turn-on process.</b>
 
 (d)	Both IL and IH are associated with turn-off process.
 
