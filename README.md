@@ -5,7 +5,7 @@
 <b>Discipline | <b>Electrical Engineering
 :--|:--|
 <b> Lab | <b> Power Electronics
-<b> Experiment|     <b> 1.(661)To obtain the simulation of single phase half wave controlled rectifier with R and RL load and plot load voltage and load current waveforms.
+<b> Experiment|     <b> 1. (REE-661) To obtain the simulation of single phase half wave controlled rectifier with R and RL load and plot load voltage and load current waveforms.
 
 <h5> About the Lab (Objective) : </h5>Aim: To study the Half Wave Controlled Rectifier with a Resistive Load.
 Objectives: 
@@ -34,7 +34,7 @@ At the end of the module the student would be able to
 Power Electronics
 
 <h5> Universities Mapped : </h5>
-AKTU:(REE 661) To obtain the simulation of single phase half wave controlled rectifier with R and RL load and plot load voltage and load current waveforms
+AKTU: (REE 661)  To obtain the simulation of single phase half wave controlled rectifier with R and RL load and plot load voltage and load current waveforms
   
 
 <b>Name of Developer | <b>Dr. Akhilesh Kumar Gupta 
