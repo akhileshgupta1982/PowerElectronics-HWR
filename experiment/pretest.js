@@ -133,6 +133,16 @@
       },
       correctAnswer: "b"
     },
+    {
+      question: "The SCR ratings, di/dt in A/µsec and dv/dt in V/µsec, may vary, respectively, between",
+      answers: {
+        a: "20 to 500, 10 to 100",
+        b: "Both 20 to 500",
+        c: "Both 10 to 100",
+        d: "50 to 300, 20 to 500"
+      },
+      correctAnswer: "b"
+    },
     /* To add more MCQ's, copy the below section, starting from open curly braces ( { )
         till closing curly braces comma ( }, )
 
