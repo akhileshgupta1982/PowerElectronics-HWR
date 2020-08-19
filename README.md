@@ -27,7 +27,7 @@ At the end of the module the student would be able to
 
 
 <h5> Target Audience : </h5>
- 3rd year Electrical Engineering students and Electrical and Electronics faculties
+ 3rd year Electrical Engineering students, Electrical and Electronics faculties
 
 <h5> Course Alignment : </h5>
 
