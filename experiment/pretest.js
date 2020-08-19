@@ -142,14 +142,14 @@
     Copy below section
 
     {
-      question: "In a thyristor, the ratio of holding current to latching current is",
+      question: "This is question n?",
       answers: {
-        a: "0.4",
-        b: "1.0",
-        c: "2.5",
-        d: "4.0"
+        a: "Option 1",
+        b: "Option 2",
+        c: "Option 3",
+        d: "Option 4"
       },
-      correctAnswer: "a"
+      correctAnswer: "c"
     },
 
     Copy above section
