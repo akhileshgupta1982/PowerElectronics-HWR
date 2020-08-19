@@ -4,7 +4,7 @@ Q 1. A single phase half-wave controlled rectifier has 400*sin(314t) as the inpu
 (a)	400/π<br>
 <b>(b)	300/π<br></b>
 (c)	200/π<br>
-(d)	240/π<br>
+(d)	240/π<br><br>
 
 Q.2. A voltage source 200sin*(314t) is applied to a thyristor controlled half-wave rectifier with a resistive load of 50 ohm. If the firing angle is 30° with respect to supply voltage waveform, the average power in the load is<br>
 (a)	90.6 watts<br>
