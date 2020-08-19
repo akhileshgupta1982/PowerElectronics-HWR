@@ -90,28 +90,38 @@
 
   const myQuestions = [
     {
-      question: "This is question 1?",  ///// Write the question inside double quotes
+      question: "A single phase half-wave controlled rectifier has 400*sin(314t) as the input voltage and R as the load. For a firing angle of 60o for the SCR, the average output voltage is?",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "400/π",                  ///// Write the option 1 inside double quotes
+        b: "300/π",                  ///// Write the option 2 inside double quotes
+        c: "200/π",                  ///// Write the option 3 inside double quotes
+        d: "240/π"                   ///// Write the option 4 inside double quotes
       },
-      correctAnswer: "a"                ///// Write the correct option inside double quotes
+      correctAnswer: "b"                ///// Write the correct option inside double quotes
     },
 
     {
-      question: "This is question 2?",  ///// Write the question inside double quotes
+      question: "A voltage source 200sin*(314t) is applied to a thyristor controlled half-wave rectifier with a resistive load of 50 ohm. If the firing angle is 30° with respect to supply voltage waveform, the average power in the load is",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "90.6 watts",                  ///// Write the option 1 inside double quotes
+        b: "86.3 watts",                  ///// Write the option 2 inside double quotes
+        c: "60.8 watts",                  ///// Write the option 3 inside double quotes
+        d: "70.6 watts"                   ///// Write the option 4 inside double quotes
       },
-      correctAnswer: "b"                ///// Write the correct option inside double quotes
+      correctAnswer: "c"                ///// Write the correct option inside double quotes
     },                                  ///// To add more questions, copy the section below 
     									                  ///// this line
-
+    {
+      question: "A half wave controlled rectifier has a forward resistance RF. The voltage is Vmsinωt and the load resistance is RL. The DC current is given bys" ,
+      answers: {
+        a: "V<sub>m</sub>/2R<sub>L</sub>",                  ///// Write the option 1 inside double quotes
+        b: "V<sub>m</sub>/2π(R<sub>F</sub>+R<sub>L</sub>)",                  ///// Write the option 2 inside double quotes
+        c: "(V<sub>m</sub>/2π(R<sub>F</sub>+R<sub>L</sub>))*(1+cos⁡α)",                  ///// Write the option 3 inside double quotes
+        d: "V<sub>m</sub>/2R<sub>F</sub>"                   ///// Write the option 4 inside double quotes
+      },
+      correctAnswer: "c"                ///// Write the correct option inside double quotes
+    },                                  ///// To add more questions, copy the section below 
+    		
 
     /* To add more MCQ's, copy the below section, starting from open curly braces ( { )
         till closing curly braces comma ( }, )
