@@ -1,1 +1,1 @@
-### Lab Name
+### Power Electronics
