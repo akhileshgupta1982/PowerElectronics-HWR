@@ -13,16 +13,24 @@ Q.1. When a thyristor if forward biased, the number of blocked p-n junctions is
 
 
 Q.2. In a thyristor
+
 (a)	Latching current IL is associated with turn-off process and holding current IH with turn-on process.
+
 (b)	Both IL and IH are associated with turn-off process.
+
 <b>-</b>(c)	IH is associated with turn-off process and IL with turn-on process.
+
 (d)	Both IL and IH are associated with turn-off process.
 
 
 Q.3. In a thyristor, the ratio of holding current to latching current is
+
 (a)	0.4
+
 (b)	1.0
+
 (c)	2.5
+
 (d)	4.0
 
 
