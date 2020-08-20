@@ -5,7 +5,7 @@
 <b>Discipline | <b>Electrical Engineering
 :--|:--|
 <b> Lab | <b> Power Electronics
-<b> Experiment|     <b>To obtain the simulation of single phase half wave controlled rectifier with R and RL load and plot load voltage and load current waveforms.
+<b> Experiment|     <b>1.To obtain the simulation of single phase half wave controlled rectifier with R and RL load and plot load voltage and load current waveforms.
 
 <h5> About the Lab (Objective) :
 </h5>To study the Half Wave Controlled Rectifier with a Resistive Load.<br>
@@ -40,10 +40,10 @@ AKTU
 
 
 
-<b>Name of Developer | <b>Dr. Akhilesh Kumar Gupta 
+<b>Name of Developer | </b>Dr. Akhilesh Kumar Gupta 
 :--|:--|
-<b> Institute | <b> B.N. COLLEGE OF ENGINEERING AND TECHNOLOGY
-<b> Email id|     <b>akhileshgupta08@gmail.com 
+<b> Institute | </b> B.N. COLLEGE OF ENGINEERING AND TECHNOLOGY
+<b> Email id|     </b>akhileshgupta08@gmail.com 
 <b> Department | Electrical Engineering
 #### Mentor Details
 
