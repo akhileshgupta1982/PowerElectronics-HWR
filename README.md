@@ -51,7 +51,7 @@ AKTU
 :--|:--|
 <b> Institute | </b> MIET Meerut
 <b> Email id|     </b> arvind.pandey@miet.ac.in
-<b> Department | <b>Electronics and Communication Engineering
+<b> Department | Electronics and Communication Engineering
 #### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
