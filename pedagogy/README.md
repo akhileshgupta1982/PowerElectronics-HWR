@@ -68,8 +68,7 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 1.| Apply the concept of average and RMS voltage calculation to calculate these values. | Calculate | 1 A Single phase half-wave controlled rectifire is used to feed the DC power to resistive load. If this circuit is fired at angle α = 30°, What will be the shape of output current: <br> A. A full wave similar to input Supply <br> B. A half wave opposite to output Voltage <br> C. A half wave similar to output voltage <br> D. A half wave with 30° phase lag to output voltage 
 2.| Define the half wave rectifier process | Remember | 2 The half wave rectifier gives output for <br> A. Full Cycle <br> B. Half Cycle <br> C. No Output <br> D. Can't Say
 3.| Use to simulator and verify the concept of thyristor functioning for construction of different waveforms | Type the task that student will perform | 3 A voltage source 200sin*(314t) is applied to a thyristor controlled half-wave rectifier with a resistive load of 50 ohm. If the firing angle is 30° with respect to supply voltage waveform, the average power in the load is <br> A. 90.6 watt <br> B. 86.3 watt <br> C. 60.8 watt <br> B. 70.6 watt
-4.|   |   | 4 A single phase half-wave controlled rectifier has 400*sin(314t) as the input voltage and R as the load. For a firing angle of 60° for the SCR, the average output voltage is: <br> A. 400/π <br> B. 300/π <br> A. 200/π <br> A. 240/π
-
+4.|   |   | 4 A single phase half-wave controlled rectifier has 400*sin(sin314t) as the input voltage and R as the load. For a firing angle of 60° for the SCR, the average output voltage is: <br> A. 400/π <br> B. 300/π <br> A. 200/π <br> A. 240/π
 
 
 
