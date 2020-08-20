@@ -31,7 +31,7 @@ This is the simplest form of controlled rectifier which consists of a single thy
 
 <h5> Course Alignment : </h5>
 
-Power Electronics
+Student will be able to understand basic concept of half wave controlled rectifier.
 
 <h5> Universities Mapped : </h5>
 AKTU
