@@ -37,7 +37,8 @@ Student will be able to understand basic concept of half wave controlled rectifi
 AKTU
 <br>
 <br>
-#### Faculty Details 
+
+
 
 <b>Name of Developer | <b>Dr. Akhilesh Kumar Gupta 
 :--|:--|
