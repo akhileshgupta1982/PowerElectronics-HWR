@@ -40,17 +40,17 @@ AKTU
 
 
 
-<b>Name of Developer | </b>Dr. Akhilesh Kumar Gupta 
+<b>Name of Developer |</b>Dr. Akhilesh Kumar Gupta 
 :--|:--|
 <b> Institute | </b> B.N. COLLEGE OF ENGINEERING AND TECHNOLOGY
 <b> Email id|     </b>akhileshgupta08@gmail.com 
 <b> Department | Electrical Engineering
 #### Mentor Details
 
-<b>Mentored by | <b> Dr. Arvind Pandey
+<b>Mentored by | </b> Dr. Arvind Pandey
 :--|:--|
-<b> Institute | <b> MIET Meerut
-<b> Email id|     <b> arvind.pandey@miet.ac.in
+<b> Institute | </b> MIET Meerut
+<b> Email id|     </b> arvind.pandey@miet.ac.in
 <b> Department | <b>Electronics and Communication Engineering
 #### Contributors List
 
