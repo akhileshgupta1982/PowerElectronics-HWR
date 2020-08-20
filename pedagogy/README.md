@@ -73,9 +73,6 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 
 
 
-You can add more question. All questions may not be as MCQ
-Please add the correct answer as well.
-or type the correct answer below the question.
 
  <br>
 
