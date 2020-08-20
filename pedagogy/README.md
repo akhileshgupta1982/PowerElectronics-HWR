@@ -96,9 +96,10 @@ Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
 3.| Will scroll the load <br> risistance | Change the value of load <br> resistance | To see the Effect n Current <br> Waveform.
 4.| Will scroll the frequency | Change the value frequency <br> of input Supply <br> resistance | To see the Effect n Current <br> Waveform.
 5.| Scroll the Vmax range | Will change the range of <br> Y-axis plot for diffrent plot | To Zoom in or Zoom out along <br> the Y-axis to see the clear image.
-6.| Activity description <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
-8.| Activity description <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
-9.| Activity description <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
-10.| Activity description <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
+6.| Scroll the Tmax range | Will change the range of <br> X-axis plot for diffrent plot | To Zoom in or Zoom out along <br> the Y-axis to see the clear image.
+7.| Change the value of <br> total point for the plot | Will change total no of points <br> on the plot | To increase the accuracy of <br> output plot.
+8.| Click on draw <br> waveform button | Will draw output plot | To see the different type of plots.
+9.| Click on <br> Average_voltage <br> button | Will Calculate average <br> output voltage | To find the average value of <br> output voltage.
+10.| Click on RMS_Voltage | Will calculate RMS <br> output voltage | To find the RMS value of <br> output voltage
 
 
