@@ -76,7 +76,7 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 
  <br>
 
- <u> You can add additional TASKS & Assessment Questions <u>
+ 
 <br/>
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
