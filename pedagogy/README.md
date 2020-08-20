@@ -93,5 +93,12 @@ Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
 :--|:--|:--|:--:
 1.| Will scroll the peak <br> value voltage | Change the input peak <br> Supply | To change the value of input <br> Source.
 2.| Will scroll the firing <br> angle | Change the value of <br> firing angle | To see the effect of firing angle  <br> on output waveform and average  <br> and RMS value calculation.
-3.| Will scroll the load <br> risistance | Change the value of load <br> resistance | TO see the Effect n Current <br> Waveform.
-4.| Activity description <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
+3.| Will scroll the load <br> risistance | Change the value of load <br> resistance | To see the Effect n Current <br> Waveform.
+4.| Will scroll the frequency | Change the value frequency <br> of input Supply <br> resistance | To see the Effect n Current <br> Waveform.
+5.| Scroll the Vmax range | Will change the range of <br> Y-axis plot for diffrent plot | To Zoom in or Zoom out along <br> the Y-axis to see the clear image.
+6.| Activity description <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
+8.| Activity description <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
+9.| Activity description <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
+10.| Activity description <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
+
+
