@@ -69,6 +69,7 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 2.| Define the half wave rectifier process | Remember | 2 The half wave rectifier gives output for <br> A. Full Cycle <br> B. Half Cycle <br> C. No Output <br> D. Can't Say
 3.| Use to simulator and verify the concept of thyristor functioning for construction of different waveforms | Type the task that student will perform | 3 A voltage source 200sin*(314t) is applied to a thyristor controlled half-wave rectifier with a resistive load of 50 ohm. If the firing angle is 30° with respect to supply voltage waveform, the average power in the load is <br> A. 90.6 watt <br> B. 86.3 watt <br> C. 60.8 watt <br> B. 70.6 watt
 4.|   |   | 4 A single phase half-wave controlled rectifier has 400*sin(sin314t) as the input voltage and R as the load. For a firing angle of 60° for the SCR, the average output voltage is: <br> A. 400/π <br> B. 300/π <br> A. 200/π <br> A. 240/π
+5.| LO's as described in section 1 Next line here. | Type the task that study will perform | 5 A half wave controlled rectifier has a forward resistance R<sub>F</sub>. The voltage is V<sub>m</sub>sinωt and the load resistance is R<sub>L</sub>. The DC current is given by: <br> A. V<sub>m</sub>/2R<sub>L</sub> <br> B. V<sub>m</sub>/2π(R<sub>F</sub> + R<sub>L</sub>) <br> C. (V<sub>m</sub>/2π(R<sub>F</sub> + R<sub>L</sub>)*(1+cosα) <br> A. V<sub>m</sub>/2R<sub>F</sub>
 
 
 
