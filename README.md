@@ -17,10 +17,10 @@ At the end of the module the student would be able to
 
 
 <h5> About the Experiment : </h5>
-This is the simplest form of controlled rectifier which consists of a single thyristor feeding DC power to a resistive load.For the supply voltage of  , the SCR can conduct only when anode voltage is positive and a gate signal is applied. Therefore, the rectification process of half wave controlled rectifier can be explained as:
-1.During the positive half-cycle of the supply voltage, the SCR is forward-biased and will conduct if a trigger is applied to the gate. Let, SCR is triggered at some firing angle α, the load current flows and the output voltage Vo will be the same as the input voltage. 
-2.At time t = π, the current falls natural to zero, since the SCR is reverse-biased. Therefore, during the negative half-cycle, the SCR blocks the flow of current, and no voltage is applied to the load. 
-3.The SCR stays off until the gate signal is applied again at (α + 2π). 
+This is the simplest form of controlled rectifier which consists of a single thyristor feeding DC power to a resistive load.For the supply voltage of  , the SCR can conduct only when anode voltage is positive and a gate signal is applied. Therefore, the rectification process of half wave controlled rectifier can be explained as:<br>
+<b>1.</b>During the positive half-cycle of the supply voltage, the SCR is forward-biased and will conduct if a trigger is applied to the gate. Let, SCR is triggered at some firing angle α, the load current flows and the output voltage Vo will be the same as the input voltage.<br>
+<b>2.</b>At time t = π, the current falls natural to zero, since the SCR is reverse-biased. Therefore, during the negative half-cycle, the SCR blocks the flow of current, and no voltage is applied to the load.<br>
+<b>3.</b>The SCR stays off until the gate signal is applied again at (α + 2π).<br>
 
 
 
