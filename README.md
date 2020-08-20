@@ -35,6 +35,8 @@ Student will be able to understand basic concept of half wave controlled rectifi
 
 <h5> Universities Mapped : </h5>
 AKTU
+<br>
+<br>
   
 
 <b>Name of Developer | <b>Dr. Akhilesh Kumar Gupta 
