@@ -66,7 +66,7 @@ Read the theory and comprehend the concepts related to the experiment. [LO1, LO2
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
 1.| Apply the concept of average and RMS voltage calculation to calculate these values. | Calculate | A Single phase half-wave controlled rectifire is used to feed  the DC power to resistive load. If this circuit is fired at angle α = 30°, What will be the shape of output current: <br> A. A full wave similar to input Supply <br> B. A half wave opposite to output Voltage <br> C. <b>A half wave similar to output voltage</b> <br> D. A half wave with 30° phase lag to output voltage
-2.| LO's as described in section 1 <br> Next line here. | Type the task that <br> student will perform | 1 Question in detail <br> A. Option <br> B. Option <br> C. Option <br> <b> D. Option </b> <br> (mark correct option as bold text)
+2.| Define the half wave rectifier process | Remember | 2 The half wave rectifier gives output for <br> A. Full Cycle  <br> <b>B.Half Cycle</b><br> C. No Output <br> D.Can't Say <br> 
 
 
 You can add more question. All questions may not be as MCQ
