@@ -9,8 +9,7 @@
 
 <h5> About the Lab (Objective) :
 </h5>To study the Half Wave Controlled Rectifier with a Resistive Load.<br>
-<b>Objectives: </b><br>
-At the end of the module the student would be able to<br>
+ At the end of the module the student would be able to:<br>
 <b>1.</b> Phase Controlled Rectification<br>
 <b>2.</b> Single Phase Half Wave Controlled <br>
 
