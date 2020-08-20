@@ -34,7 +34,7 @@ This is the simplest form of controlled rectifier which consists of a single thy
 Power Electronics
 
 <h5> Universities Mapped : </h5>
-AKTU: (REE 661)  To obtain the simulation of single phase half wave controlled rectifier with R and RL load and plot load voltage and load current waveforms
+AKTU
   
 
 <b>Name of Developer | <b>Dr. Akhilesh Kumar Gupta 
