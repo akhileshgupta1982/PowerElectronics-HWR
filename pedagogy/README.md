@@ -47,7 +47,7 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 
 <u> <b>Description: </b>  </u>
 <br>
-<p align="justify">Student will able to make the proper connections with identification of components and their arrangement. Further, students would be able to set the values of different components according to their needs. These values are inserted into the theoretical formulas and concept implemented into the simulator. By hitting the draw waveform, Average_Voltage and RMS_Voltage, the simulator will be able to calculate the output values and to draw the different waveforms by the help of previously implemented formulas.</p>
+<p align="justify">Student will able to make the proper connections and arrangement of the components in the circuit. Further, students would be able to set the values of different components according to their needs. These values are inserted into the theoretical formulas and concepts which are implemented into the simulator. By hitting the draw waveform, Average Voltage and RMS Voltage buttons, the student would be able to calculate the output values and to draw the different waveforms by the help of previously implemented formulas.</p>
 
 <br/>
 <div align="right">
