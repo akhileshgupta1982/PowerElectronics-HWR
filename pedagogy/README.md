@@ -20,7 +20,7 @@
 <h4> [5. Simulator Interactions](#SI)
 <hr>
 
-<a name="LO"></a></b>
+<a name="LO"></a>
 #### 1. Focus Area : Reinforce theoretical concept
 #### 2. Learning Objectives and Cognitive Level
 
