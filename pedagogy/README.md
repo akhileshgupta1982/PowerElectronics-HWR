@@ -1,16 +1,14 @@
 ## Pedagogy (Round 1)
 <p align="center">
 
-
 <br>
-<br>
-<b>Experiment Power Electronics Lab<a name="top"></a> <br>
+<b> Experiment Power Electronics Lab  <a name="top"></a> <br>
 </p>
 
 <b>Discipline | <b>Electrical Engineering
 :--|:--|
-    <b> Lab | <b> Power Electronics Lab
-<b> Experiment|    <p align="justify"> <b> 1.  To obtain the simulation of single phase half wave controlled rectifier with R and RL load and plot load voltage and load current waveforms.</p>
+<b> Lab | <b> Power Electronics Lab
+<b> Experiment|     <b> <p align="justify"> <b> 1.  To obtain the simulation of single phase half wave controlled rectifier with R and RL load and plot load voltage and load current waveforms.</p>
 
 
 <h4> [1. Focus Area](#LO)
@@ -19,6 +17,8 @@
 <h4> [4. Task & Assessment Questions](#AQ)
 <h4> [5. Simulator Interactions](#SI)
 <hr>
+<br>
+<br>
 
 <a name="LO"></a>
 #### 1. Focus Area : Reinforce theoretical concept
