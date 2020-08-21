@@ -53,9 +53,9 @@ AKTU Lucknow
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 |Siddhant Pratap Singh | Student | EE | B.N.C.E.T, Lucknow |siddhantpratapsingh46@gmail.com
-3 | Anwar Abbas | Student | Computer Science | B.N.C.E.T, Lucknow |anwarabbas660@gmail.com
-4 | Sakshi Agarwal | Student | Computer Science | B.N.C.E.T, Lucknow |sasakshiagarwal369@gmail.com
+1 |Siddhant Pratap Singh | Student | Electrical Engineering | B.N.C.E.T, Lucknow |siddhantpratapsingh46@gmail.com
+3 |Anwar Abbas | Student | Computer Science | B.N.C.E.T, Lucknow |anwarabbas660@gmail.com
+4 |Sakshi Agarwal | Student | Computer Science | B.N.C.E.T, Lucknow |sasakshiagarwal369@gmail.com
 5 |Shah Alam  | Student | Computer Science | B.N.C.E.T, Lucknow |shahalama44@gmail.com
 
 
