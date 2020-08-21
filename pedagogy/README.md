@@ -7,7 +7,7 @@
 <b>Experiment Power Electronics Lab<a name="top"></a> <br>
 </p>
 
-<b>Discipline</b> | <b>Electrical Engineering</b>
+<b>Discipline | <b>Electrical Engineering
 :--|:--|
     <b> Lab | <b> Power Electronics Lab
 <b> Experiment|    <p align="justify"> <b> 1.  To obtain the simulation of single phase half wave controlled rectifier with R and RL load and plot load voltage and load current waveforms.</p>
@@ -20,7 +20,7 @@
 <h4> [5. Simulator Interactions](#SI)
 <hr>
 
-<a name="LO"></a>
+<a name="LO"></a></b>
 #### 1. Focus Area : Reinforce theoretical concept
 #### 2. Learning Objectives and Cognitive Level
 
@@ -59,7 +59,6 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 <a name="AQ"></a>
 #### 4. Task & Assessment Questions:
 
-Read the theory and comprehend the concepts related to the experiment. [LO1, LO2, LO3]
 <br>
 
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
