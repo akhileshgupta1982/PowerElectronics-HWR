@@ -1,12 +1,12 @@
 ## Storyboard (Round 2)
 
-Delete this line before submission : The core principle of Round 2 is to make the lab/experiment documentation elaborated in a manner that it makes easy for any person (developer/domain and non domain faculty/student) to understand and develop the lab/experiment.
-
-Experiment 1: Name of the Experiment
+Experiment 1:To obtain the simulation of single phase half wave controlled rectifier with R and RL load and plot load voltage and load current waveforms.
 
 ### 1. Story Outline:
 
-Describe outline Here ( guide : The proposer should first draft the story outline for the proposed outline. This could be 2 or 3 paragraphs.)
+<p align="justify">The uses approaches to the simulator to understand the basic concept of firing angle and its use in half wave controlled rectifier. The simulator has six scroll buttons which are used by the user to control the different parameters. User scrolls the firing angle button to change the value of firing instant of the thyristor to control the DC value of output voltage. The resistance scroll button is used by the user to set the load resistance value of the circuit.</p>
+<p align="justify">There are three generalized button for the whole button. User may use the V<sub>max</sub> and T<sub>max</sub> scrolls button to zoom in or zoom out all the plots for clear visualization. User may use the average voltage and RMS voltage buttons for the calculation of corresponding values of output voltages.</p>
+
 
 ### 2. Story:
 
