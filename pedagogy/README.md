@@ -10,7 +10,7 @@
 <b>Discipline | <b>Electrical Engineering
 :--|:--|
 <b> Lab | <b> Power Electronics Lab
-<b> Experiment|     <b> 1.  To obtain the simulation of single phase half wave controlled rectifier with R and RL load and plot load voltage and load current waveforms.
+<b> Experiment|    <p align="justify"> <b> 1.  To obtain the simulation of single phase half wave controlled rectifier with R and RL load and plot load voltage and load current waveforms.</p>
 
 
 <h4> [1. Focus Area](#LO)
@@ -21,8 +21,7 @@
 <hr>
 
 <a name="LO"></a>
-#### 1. Focus Area : Name of the Focus area as per handout
-i.	Reinforce theoretical concept
+#### 1. Focus Area : Reinforce theoretical concept
 #### 2. Learning Objectives and Cognitive Level
 
 
@@ -48,7 +47,7 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 
 <u> <b>Description: </b>  </u>
 <br>
-Student will able to make the proper connections with identification of components and their arrangement. Further, students would be able to set the values of different components according to their needs. These values are inserted into the theoretical formulas and concept implemented into the simulator. By hitting the draw waveform, Average_Voltage and RMS_Voltage, the simulator will be able to calculate the output values and to draw the different waveforms by the help of previously implemented formulas.
+<p align="justify">Student will able to make the proper connections with identification of components and their arrangement. Further, students would be able to set the values of different components according to their needs. These values are inserted into the theoretical formulas and concept implemented into the simulator. By hitting the draw waveform, Average_Voltage and RMS_Voltage, the simulator will be able to calculate the output values and to draw the different waveforms by the help of previously implemented formulas.</p>
 
 <br/>
 <div align="right">
