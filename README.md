@@ -16,22 +16,22 @@
 
 
 
-<div style="text-align: justify"><h5> About the Experiment : </h5>
-The experiment is basically to control of the load voltage. This aim is achieved by the use of thyristor which will conduct only when it is forward biased with a firing current pulse at the gate terminal. The average value and RMS value of the load voltage is controlled by delaying the firing pulse by an angle α. The firing angle (α) is simply measured from the position of natural conduction of diode. If the load is resistive in nature, the current waveform will be similar to voltage waveform in shape. The thyristor will go into non-conducting state (OFF state) when the current try to approach a negative value with inductive load.</div>
+<p style="text-align: justify"><h5> About the Experiment : </h5>
+The experiment is basically to control of the load voltage. This aim is achieved by the use of thyristor which will conduct only when it is forward biased with a firing current pulse at the gate terminal. The average value and RMS value of the load voltage is controlled by delaying the firing pulse by an angle α. The firing angle (α) is simply measured from the position of natural conduction of diode. If the load is resistive in nature, the current waveform will be similar to voltage waveform in shape. The thyristor will go into non-conducting state (OFF state) when the current try to approach a negative value with inductive load.</p>
 
 
 
 
 
 <h5> Target Audience : </h5>
- 3rd year Electrical Engineering students, Electrical and Electronics faculties
+ 3<sup>rd</sup> year Electrical Engineering students, Electrical and Electronics faculties
 
 <h5> Course Alignment : </h5>
 
 Student will be able to understand basic concept of half wave controlled rectifier.
 
 <h5> Universities Mapped : </h5>
-AKTU
+AKTU Lucknow
 <br>
 <br>
 
