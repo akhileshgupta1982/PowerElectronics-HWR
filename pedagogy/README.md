@@ -90,16 +90,7 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 
 Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
 :--|:--|:--|:--:
-1.| <p align="justify">click on the simulator tab. | Simulator screen of the experiment will open up. | To open the simulator screen for perform the experiment.</p>
-1.| <p align="justify">Will scroll the peak <br> value voltage | Change the input peak <br> Supply | To change the value of <br> input Source.
-2.| Will scroll the firing <br> angle | Change the value of <br> firing angle | To see the effect of firing angle  <br> on output waveform and average  <br> and RMS value calculation.
-3.| Will scroll the load <br> risistance | Change the value of load <br> resistance | To see the Effect n Current <br> Waveform.
-4.| Will scroll the frequency | Change the value frequency <br> of input Supply <br> resistance | To see the Effect n Current <br> Waveform.
-5.| Scroll the Vmax range | Will change the range of <br> Y-axis plot for diffrent plot | To Zoom in or Zoom out along <br> the Y-axis to see the clear image.
-6.| Scroll the Tmax range | Will change the range of <br> X-axis plot for diffrent plot | To Zoom in or Zoom out along <br> the Y-axis to see the clear image.
-7.| Change the value of <br> total point for the plot | Will change total no of points <br> on the plot | To increase the accuracy of <br> output plot.
-8.| Click on draw <br> waveform button | Will draw output plot | To see the different type of plots.
-9.| Click on <br> Average_voltage <br> button | Will Calculate average <br> output voltage | To find the average value of <br> output voltage.
-10.| Click on RMS_Voltage | Will calculate RMS <br> output voltage | To find the RMS value of <br> output voltage
-
+1.| <p align="justify">click on the simulator tab.</p> | <p align="justify">Simulator screen of the experiment will open up.</p> | <p align="justify">To open the simulator screen for perform the experiment.</p>
+2.| <p align="justify">Set the peak value of input supply V<sub>p</sub>.</p> | <p align="justify">Change the peak value of input supply.</p> | <p align="justify">Calculation of Average Output Voltage.</p>
+3.| <p align="justify">Set the value of firing Angle α.</p> | <p align="justify">Display the output waveform of the circuit delayed by α angle..</p> | <p align="justify">To see the effect of firing angle on output waveform and average and RMS value calculation.</p>
 
