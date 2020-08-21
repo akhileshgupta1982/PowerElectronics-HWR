@@ -78,7 +78,7 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
  
 <br/>
 <div align="right">
-    <a href="#top">↥ back to top</a>
+    <b><a href="#top">↥ back to top</a></b>
 </div>
 <br/>
 <hr>
@@ -88,8 +88,8 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 #### 4. Simulator Interactions:
 <br>
 
-Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
-:--|:--|:--|:--:
+Sr. No. | What Students will do? |	What Simulator will do?	| Purpose of the task
+:--|:--|:--|:--:<b></b>
 1.| <p align="justify">Click on the simulator tab.</p> | <p align="justify">Simulator screen of the experiment will open up.</p> | <p align="justify">To open the simulator screen for perform the experiment.</p>
 2.| <p align="justify">Set the peak value of input supply V<sub>p</sub>.</p> | <p align="justify">Change the peak value of input supply.</p> | <p align="justify">Calculation of average output voltage.</p>
 3.| <p align="justify">Set the value of firing Angle α.</p> | <p align="justify">Display the output waveform of the circuit delayed by α angle.</p> | <p align="justify">To see the effect of firing angle on output waveform and average and RMS value calculation.</p>
