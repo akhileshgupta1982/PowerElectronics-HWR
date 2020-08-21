@@ -28,10 +28,10 @@
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
 1.| User will be able to: <br>Define the half wave rectification process |Remember |State
-2.| User will be able to: <br>Describe the function of Thyristor and role of firing angle in working of Thyristor|Understand  | Describe
-3.| User will be able to: <br>Understand the concept of half wave controlled rectifier|Understand | Explain
-4.| User will be able to: <br>Use to simulator and verify the concept of thyristor functioning for construction of different waveforms | Apply | Construct
-5.| User will be able to: <br>apply the concept of average and RMS voltage calculation to calculate these values| Apply | Calculate
+2.| User will be able to: <br><p align="justify">Describe the function of Thyristor and role of firing angle in working of Thyristor</p>|Understand  | Describe
+3.| User will be able to: <br><p align="justify">Understand the concept of half wave controlled rectifier</p>|Understand | Explain
+4.| User will be able to: <br><p align="justify">Use to simulator and verify the concept of thyristor functioning for construction of different waveforms</p> | Apply | Construct
+5.| User will be able to: <br><p align="justify">apply the concept of average and RMS voltage calculation to calculate these values</p>| Apply | Calculate
 
 <br/>
 <div align="right">
@@ -65,10 +65,10 @@ Read the theory and comprehend the concepts related to the experiment. [LO1, LO2
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
  1.| Apply the concept of average and RMS voltage calculation to calculate these values. | Calculate | <p align="justify">1 A Single phase half-wave controlled rectifire is used to feed the DC power to resistive load. If this circuit is fired at angle α = 30°, What will be the shape of output current: <br> A. A full wave similar to input Supply <br> B. A half wave opposite to output Voltage <br> <b> C. A half wave similar to output voltage </b> <br> D. A half wave with 30° phase lag to output voltage </p>
-2.| Define the half wave rectifier process | Remember | 2 The half wave rectifier gives output for <br> A. Full Cycle <br> <b> B. Half Cycle </b> <br> C. No Output <br> D. Can't Say
-3.| Use to simulator and verify the concept of thyristor functioning for construction of different waveforms | Type the task that student will perform | 3 A voltage source 200sin*(314t) is applied to a thyristor controlled half-wave rectifier with a resistive load of 50 ohm. If the firing angle is 30° with respect to supply voltage waveform, the average power in the load is <br> A. 90.6 watt <br> B. 86.3 watt <br> C. 60.8 watt <br> <b> D. 70.6 watt </b>
-4.|   |   | 4 A single phase half-wave controlled rectifier has 400*sin(sin314t) as the input voltage and R as the load. For a firing angle of 60° for the SCR, the average output voltage is: <br> A. 400/π <br> <b> B. 300/π </b> <br> A. 200/π <br> A. 240/π
-5.| LO's as described in section 1 Next line here. | Type the task that study will perform | 5 A half wave controlled rectifier has a forward resistance R<sub>F</sub>. The voltage is V<sub>m</sub>sinωt and the load resistance is R<sub>L</sub>. The DC current is given by: <br> A. V<sub>m</sub>/2R<sub>L</sub> <br> B. V<sub>m</sub>/2π(R<sub>F</sub> + R<sub>L</sub>) <br> <b> C. (V<sub>m</sub>/2π(R<sub>F</sub> + R<sub>L</sub>)*(1+cosα) </b> <br> D. V<sub>m</sub>/2R<sub>F</sub>
+2.| Define the half wave rectifier process | Remember | 2 <p align="justify">The half wave rectifier gives output for <br> A. Full Cycle <br> <b> B. Half Cycle </b> <br> C. No Output <br> D. Can't Say</p>
+3.| Use to simulator and verify the concept of thyristor functioning for construction of different waveforms | Type the task that student will perform |<p align="justify"> 3 A voltage source 200sin*(314t) is applied to a thyristor controlled half-wave rectifier with a resistive load of 50 ohm. If the firing angle is 30° with respect to supply voltage waveform, the average power in the load is <br> A. 90.6 watt <br> B. 86.3 watt <br> C. 60.8 watt <br> <b> D. 70.6 watt </p></b>
+4.|   |   | <p align="justify">4 A single phase half-wave controlled rectifier has 400*sin(sin314t) as the input voltage and R as the load. For a firing angle of 60° for the SCR, the average output voltage is: <br> A. 400/π <br> <b> B. 300/π </b> <br> A. 200/π <br> A. 240/π</p>
+5.| LO's as described in section 1 Next line here. | Type the task that study will perform | <p align="justify">5 A half wave controlled rectifier has a forward resistance R<sub>F</sub>. The voltage is V<sub>m</sub>sinωt and the load resistance is R<sub>L</sub>. The DC current is given by: <br> A. V<sub>m</sub>/2R<sub>L</sub> <br> B. V<sub>m</sub>/2π(R<sub>F</sub> + R<sub>L</sub>) <br> <b> C. (V<sub>m</sub>/2π(R<sub>F</sub> + R<sub>L</sub>)*(1+cosα) </b> <br> D. V<sub>m</sub>/2R<sub>F</sub></p>
 
 
 
