@@ -28,7 +28,7 @@ i.	Reinforce theoretical concept
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
-1.| User will be able to: <br>Define the half wave rectifier process |Remember |State
+1.| User will be able to: <br>Define the half wave rectification process |Remember |State
 2.| User will be able to: <br>Describe the function of Thyristor and role of firing angle in working of Thyristor|Understand  | Describe
 3.| User will be able to: <br>Understand the concept of half wave controlled rectifier|Understand | Explain
 4.| User will be able to: <br>Use to simulator and verify the concept of thyristor functioning for construction of different waveforms | Apply | Construct
