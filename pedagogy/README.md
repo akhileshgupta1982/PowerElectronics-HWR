@@ -90,7 +90,7 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 
 Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
 :--|:--|:--|:--:
-1.| <p align="justify">click on the simulator tab. | Simulator screen of the experiment will open up. | To open the simulator screen for perform the experiment.
+1.| <p align="justify">click on the simulator tab. | Simulator screen of the experiment will open up. | To open the simulator screen for perform the experiment.</p>
 1.| <p align="justify">Will scroll the peak <br> value voltage | Change the input peak <br> Supply | To change the value of <br> input Source.
 2.| Will scroll the firing <br> angle | Change the value of <br> firing angle | To see the effect of firing angle  <br> on output waveform and average  <br> and RMS value calculation.
 3.| Will scroll the load <br> risistance | Change the value of load <br> resistance | To see the Effect n Current <br> Waveform.
