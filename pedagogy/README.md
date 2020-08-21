@@ -4,7 +4,7 @@
 
 <br>
 <br>
-<b>Experiment Power Electronics Lab<a name="top"></b></a> <br>
+<b>Experiment Power Electronics Lab<a name="top"></a> <br>
 </p>
 
 <b>Discipline</b> | <b>Electrical Engineering</b>
