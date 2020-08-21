@@ -7,10 +7,10 @@
 <b>Experiment Power Electronics Lab<a name="top"></a> <br>
 </p>
 
-<b>Discipline | <b>Type Name of Discipline  to which lab belongs
+<b>Discipline | <b>Electrical Engineering
 :--|:--|
-<b> Lab | <b> Experiment Power Electronics Lab
-<b> Experiment|     <b> 1. (661) To obtain the simulation of single phase half wave controlled rectifier with R and RL load and plot load voltage and load current waveforms.
+<b> Lab | <b> Power Electronics Lab
+<b> Experiment|     <b> 1.  To obtain the simulation of single phase half wave controlled rectifier with R and RL load and plot load voltage and load current waveforms.
 
 
 <h4> [1. Focus Area](#LO)
