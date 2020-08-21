@@ -4,12 +4,12 @@
 
 <br>
 <br>
-<b>Experiment Power Electronics Lab<a name="top"></a> <br>
+<b>Experiment Power Electronics Lab<a name="top"></b></a> <br>
 </p>
 
-<b>Discipline | <b>Electrical Engineering
+<b>Discipline</b> | <b>Electrical Engineering</b>
 :--|:--|
-<b> Lab | <b> Power Electronics Lab
+    <b> Lab</b> | <b> Power Electronics Lab</b>
 <b> Experiment|    <p align="justify"> <b> 1.  To obtain the simulation of single phase half wave controlled rectifier with R and RL load and plot load voltage and load current waveforms.</p>
 
 
