@@ -5,7 +5,7 @@
 <b>Discipline | <b>Electrical Engineering
 :--|:--|
 <b> Lab | <b> Power Electronics
-<b> Experiment|     <b>1.To obtain the simulation of single phase half wave controlled rectifier with R and RL load and plot load voltage and load current waveforms.
+<b> Experiment|    <p align="justify"> <b>1. To obtain the simulation of single phase half wave controlled rectifier with R and RL load and plot load voltage and load current waveforms.</p>
 
 <h5> About the Lab (Objective) :
 </h5>To study the Half Wave Controlled Rectifier with a Resistive Load.<br>
