@@ -34,7 +34,7 @@ Describe conclusion here : (guide: This may include displaying: how much time di
 
 ##### 2.7 Equations/formulas:
 <li> <b>The average or DC value of the load voltage is given by: </b><br>V<sub>o,avg</sub> = V<sub>m</sub>/2&#120587;(1+cos &prop;)                               (1)
-<li><b>The RMS value of the load voltage is given by: </b><br>V<sub>or</sub> = V<sub>m</sub>/2&radic#120587   [(&#120587;-&prop;)+1/2(sin 2&prop;)]                (2) 
+<li><b>The RMS value of the load voltage is given by: </b><br>V<sub>or</sub> = V<sub>m</sub>/2&radic;(#120587;)   [(&#120587;-&prop;)+1/2(sin 2&prop;)]                (2) 
 
 ### 3. Flowchart 4
 <img src="flowchart/flowchart.png"/><br>
