@@ -13,21 +13,69 @@ Experiment 1:To obtain the simulation of single phase half wave controlled recti
 <p align="justify">The story is started with a character called thyristor. In our daily life we learn many thing with their pros and cons. Similarly, in this experiment we learn to control the output DC voltage by delaying the ON position of the thyristor. Here thyristor acts just like a switch which is used to obtain the average output voltage according to our needs. User initiates the process to delay the switch ON position by setting the value of firing angle. The whole story design process of simulation experiment is narrated as a story which consists of the description of the visual stage, the goals and objectives planned and the pathway set for the learner. Moreover a few challenges and pitfalls are also set to underline and emphasize the concepts involved in the experimentation. Every stage is described thoroughly in the following subsections.</p>
 
 #### 2.1 Set the Visual Stage Description:
-Describe here : (guide When a user lands up into a simulator, the visual stage is the first thing that user comes across. The visual stage should include all the elements to be seen by a user on an imaginary canvas.  (This should NOT include any drawings. ) )
+<p align="justify">The simulator starts with the experiment name on the top and asking for the input whether user need to do experiment for R load or RL load. The simulator consists of five blocks: four blocks with inputs and outputs and one block with drop down instruction lists. User needs to connect the circuit as given in instructions. After proper connections, user needs to enter the desired value of input supply, load resistance, load inductance, frequency and firing angle given in left side block. Now, user may hit the “Draw Waveform” button to obtain the output waveforms in right block and average and RMS output voltage in left block. If user thinks that he enters some wrong value by mistake, there is a RESET button next to Draw Waveform button to reset the inputs. </p>
 
 #### 2.2 Set User Objectives & Goals:
-Describe the objectives and goals in details here : (guide : The user should clearly understand the aims and objective of the experiment. ( how he will begin experiment. ?  in descriptive))
+<p align="justify">The main objective of this experiment is  to let the user know about the functioning of thyristor and its appliaction as half wave controlled rectifier. At the end of the module the student would be able to understand:<p><br>
+1.	The difference between half wave uncontrolled rectifier and half wave controlled rectifier.<br>
+2.	The role of firing angle to control the DC and RMS values output voltage.<br>
+3.	The effect of load inductance on the conduction of thyristor.<br>
+4.	The effect of load inductance on different types of output waveforms.<br>
 
 #### 2.3 Set the Pathway Activities:
 
-Describe the pathway activites here : (Guide : Set the pathway activities in line with the learning objectives (LOs)  & with a view to achieve the goals set in round #0 & round#1.  (once he begins, how he will traverse through the entire experiment ? in descriptive))
+1.	click on the simulator tab.<br>
+2.	Set the peak value of input supply Vp.<br>
+3.	Set the value of firing Angle α.<br>
+4.	Set the value of load resistance RL.<br>
+5.	Set the Frequency of input Supply fo.<br>
+6.	Set the Vmax  range.<br>
+7.	Set the Tmax range.<br>
+8.	Change the value of total point for the plot.<br>
+9.	Click on "Draw Waveform" button.<br>
+10.	Click on "Average Voltage" button.<br>
+11.	Click on "RMS Voltage".<br>
+
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
 
-Describe the challenges Here : (guide : Set Challenges and Questions/Complexity/variations in questions according to User’s level, so as to invoke the learners’ interest.  (while traversing, what challenges he will face? how he has to solve and overcome ? descriptive).)
+Difficuty level: Remember
+Q.1. When a thyristor if forward biased, the number of blocked p-n junctions is
+(a)	1
+(b)	2
+(c)	3
+(d)	4
+Difficuty level: Understand
+Q.2. In a thyristor
+(a)	Latching current IL is associated with turn-off process and holding current IH with turn-on process.
+(b)	Both IL and IH are associated with turn-off process.
+(c)	IH is associated with turn-off process and IL with turn-on process.
+(d)	Both IL and IH are associated with turn-off process.
+Difficuty level: Understand
+Q.3. In a thyristor, the ratio of holding current to latching current is
+(a)	0.4
+(b)	1.0
+(c)	2.5
+(d)	4.0
+(e)	Difficuty level: Understand
+Difficuty level: Apply
+Q.4. The SCR ratings, di/dt in A/µsec and dv/dt in V/µsec, may vary, respectively, between
+(a)	20 to 500, 10 to 100
+(b)	Both 20 to 500
+(c)	Both 10 to 100
+(d)	50 to 300, 20 to 500
+Difficuty level: Apply
+Q.5. When a thyristor if forward biased, the number of blocked p-n junctions is
+(a)	1
+(b)	2
+(c)	3
+(d)	4
+
 
 ##### 2.5 Allow pitfalls:
-Describe the pitfalls here: (guide : (while traversing or while solving challenge, how will we bring a situation in front of him that he commits mistake if he is not attentive , or not following procedure , descriptive))
+1.	User will get an error message if the circuit connection is wrong.<br>
+2.	User will get wrong waveform if the number of points to be appear on plot are very less.<br>
+3.	Once user hits Draw Waveform button, the values would be locked.<br>
 
 ##### 2.6 Conclusion:
 Describe conclusion here : (guide: This may include displaying: how much time did the user take to solve the questions/ How many questions were right?/ How many hints did the learner use. Based on this the evaluation/marking to be suggested to the user. (once he is towards the completion of the experiment, what LO he is taking along with him, what will be his probable, interpretation/conclusion , descriptive) )
