@@ -27,11 +27,11 @@
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
-1.| User will be able to: <br>Define the half wave rectification process |Remember |State
-2.| User will be able to: <br><p align="justify">Describe the function of Thyristor and role of firing angle in working of Thyristor</p>|Understand  | Describe
-3.| User will be able to: <br><p align="justify">Understand the concept of half wave controlled rectifier</p>|Understand | Explain
-4.| User will be able to: <br><p align="justify">Use the simulator and verify the concept of thyristor functioning for construction of different waveforms</p> | Apply | Construct
-5.| User will be able to: <br><p align="justify">Apply the concept of average and RMS voltage calculation to calculate these values</p>| Apply | Calculate
+1.| User will be able to: <br>Define the half wave rectification process |Remember |Define
+2.| User will be able to: <br><p align="justify">Describe the function of thyristor and role of firing angle in working of thyristor</p>|Understand  | Describe
+3.| User will be able to: <br><p align="justify">Explain the concept of half wave controlled rectifier</p>|Understand | Explain
+4.| User will be able to: <br><p align="justify">Use the simulator to construct the different types of waveforms</p> | Apply | Construct
+5.| User will be able to: <br><p align="justify">Apply the concept to calculte average and RMS values of output voltage</p>| Apply | Calculate
 
 <br/>
 <div align="right">
@@ -63,7 +63,7 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
- 1.| <p align="justify">Define the half wave rectifier process</p> | Remember | <p align="justify"><b>1. The half wave rectifier gives output for </b> <br> A. Full Cycle <br> <b> B. Half Cycle </b> <br> C. No Output <br> D. Can't Say</p>
+ 1.| <p align="justify">Define the half wave rectification process process</p> | Remember | <p align="justify"><b>1. The half wave rectifier gives output for </b> <br> A. Full Cycle <br> <b> B. Half Cycle </b> <br> C. No Output <br> D. Can't Say</p>
  2.| <p align="justify">Describe the function of Thyristor and role of firing angle in working of Thyristor. </p>| Understand | <p align="justify"><b>2. A Single phase half-wave controlled rectifire is used to feed the DC power to resistive load. If this circuit is fired at angle α, What will be the shape of output current:</b> <br> A. A full wave similar to input Supply <br> B. A half wave opposite to output Voltage <br> <b> C. A half wave similar to output voltage </b> <br> D. A half wave with α<sup>o</sup> phase lag to output voltage </p>
 3.| <p align="justify">Understand the concept of half wave controlled rectifier </p>| Understand |<p align="justify"> <b>3. A half wave controlled rectifier has a forward resistance R<sub>F</sub>. The voltage is V<sub>m</sub>sinωt and the load resistance is R<sub>L</sub>. The DC current is given by:</b> <br> A. V<sub>m</sub>/2R<sub>L</sub> <br> B. V<sub>m</sub>/2π(R<sub>F</sub> + R<sub>L</sub>) <br> <b> C. (V<sub>m</sub>/2π(R<sub>F</sub> + R<sub>L</sub>))*(1+cosα) </b> <br> D. V<sub>m</sub>/2R<sub>F</sub></p></b>
 4.|<p align="justify"> Use the simulator and verify the concept of thyristor functioning for construction of different waveforms</p>   | Apply  | <p align="justify"><b>4. A voltage source 200sin*(314t) is applied to a thyristor controlled half-wave rectifier with a resistive load of 50 Ω. If the firing angle is 30° with respect to supply voltage waveform, the average power in the load is</b> <br> A. 90.6 watt <br> B. 86.3 watt <br> C. 60.8 watt <br> <b> D. 70.6 watt</b> </p>
@@ -84,7 +84,7 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 
 <a name="SI"></a>
 
-#### 4. Simulator Interactions:
+#### 5. Simulator Interactions:
 <br>
 
 Sr. No. | What Students will do? |	What Simulator will do?	| Purpose of the task
