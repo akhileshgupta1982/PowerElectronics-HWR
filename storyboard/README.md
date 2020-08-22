@@ -103,11 +103,12 @@ d.	A half wave with α phase lag to output voltage.<br></p>
 <b>The average or DC value of the load voltage is given by: </b><br>V<sub>o,avg</sub> = V<sub>m</sub>/2&#120587;(cos &#946;-cos &prop;)                                  (1)<br>
 <b>The RMS value of the load voltage is given by: </b><br>V<sub>or</sub> = V<sub>m</sub>/2&radic;(&#120587;)   [(&#946;-&prop;)+1/2(sin 2&#946;-sin 2&prop;)<sup>1/2</sup>]                (2) 
 
-### 3. Flowchart
+#### 3. Flowchart
 <img src="flowchart/flowchart.png"/><br>
 
-### 4. Mindmap:
-<img src="mindmap/mindmap.png"/>
-### 5. Storyboard:
+#### 4. Mindmap:
+<img src="mindmap/mindmap.png"/></br>
+
+#### 5. Storyboard:
 <img src="images/1.png"/>
-<img src="images/2.png"/>
+<img src="images/2.png"/></br>
