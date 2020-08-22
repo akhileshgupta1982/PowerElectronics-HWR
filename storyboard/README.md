@@ -38,49 +38,47 @@ Experiment 1:To obtain the simulation of single phase half wave controlled recti
 
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
-<h5> Task 1: Understanding half wave controlled rectifier experiment</h5><br>
-<h5>Assessment Questions:</h5><br>
+<h5> Task 1: Understanding half wave controlled rectifier experiment</h5>
+<h5>Assessment Questions:</h5>
 1. Once you move on the simulator page what is the default value of peak voltage?<br>
 2. What difference do you observe between current waveforms of R and RL loads?<br>
 3. What result do you expect when you change the value of load inductance?<br>
 4. What result do you expect when you change the value of load resistance?<br>
 5. Interpret and conclude the experiment.<br>
 
-<h5> Task 2: Simulate the half wave controlled rectifier with the simulator. [LO1, LO2, LO3, LO4, LO5]</h5><br>
-Difficuty level: Remember<br>
-1. The SCR ratings, di/dt in A/µsec and dv/dt in V/µsec, may vary, respectively, between<br>
+<h5> Task 2: Simulate the half wave controlled rectifier with the simulator. [LO1, LO2, LO3, LO4, LO5]</h5>
+<b>Difficuty level: Remember<br>
+1. The SCR ratings, di/dt in A/µsec and dv/dt in V/µsec, may vary, respectively, between</b><br>
 (a)	20 to 500, 10 to 100.<br>
 <b>(b)	Both 20 to 500.</b><br>
 (c)	Both 10 to 100.<br>
-(d)	50 to 300, 20 to 500.<br>
+(d)	50 to 300, 20 to 500.<br></p>
 
-Difficuty level: Understand<br>
-2. A single phase half-wave controlled rectifier is used to feed the DC power to resistive load. If this circuit is fired at an angle α, what will be the shape of output current:<br>
+<b>Difficuty level: Understand<br>
+2. A single phase half-wave controlled rectifier is used to feed the DC power to resistive load. If this circuit is fired at an angle α, what will be the shape of output current:<br></b>
 a.	 A full wave similar to input supply.<br>
 b.	A half wave opposite to output voltage.<br>
 <b>c.	A half wave similar to output voltage.</b><br>
-d.	A half wave with α phase lag to output voltage.<br>
+d.	A half wave with α phase lag to output voltage.<br></p>
 
-Difficuty level: Understand<br>
-3. In a thyristor, the ratio of holding current to latching current is<br>
+<b>Difficuty level: Understand<br>
+3. In a thyristor, the ratio of holding current to latching current is<br></b>
 <b>(a)	0.4</b><br>
 (b)	1.0<br>
 (c)	2.5<br>
 (d)	4.0<br></p>
-Difficuty level: Apply<br>
-<p align="justify">4. A single phase half-wave controlled rectifier has 400*sin(314t) as the input voltage and R as the load. For a firing angle of 60o for the SCR, the average output voltage is<br>
+<b>Difficuty level: Apply<br>
+<p align="justify">4. A single phase half-wave controlled rectifier has 400*sin(314t) as the input voltage and R as the load. For a firing angle of 60o for the SCR, the average output voltage is</b><br>
 (a)	400/π<br>
 <b>(b)	300/π</b><br>
 (c)	200/π<br>
 (d)	240/π<br></p>
-Difficuty level: Apply<br>
-<p align="justify">5.  voltage source 200sin*(314t) is applied to a thyristor controlled half-wave rectifier with a resistive load of 50 ohm. If the firing angle is 30° with respect to supply voltage waveform, the average power in the load is<br>
+<b>Difficuty level: Apply<br>
+<p align="justify">5.  voltage source 200sin*(314t) is applied to a thyristor controlled half-wave rectifier with a resistive load of 50 ohm. If the firing angle is 30° with respect to supply voltage waveform, the average power in the load is</b><br>
 (a)	90.6 watts<br>
 (b)	86.3 watts<br>
 (c)	60.8 watts<br>
  <b>(d)	70.6 watts</b><br>
-
-
 
 ##### 2.5 Allow pitfalls:
 1.	User will get an error message if the circuit connection is wrong.<br>
