@@ -38,6 +38,14 @@ Experiment 1:To obtain the simulation of single phase half wave controlled recti
 
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
+<h1> Task 1: Understanding half wave controlled rectifier experiment</h1><br>
+Assessment Questions:
+1 Once you move on the simulator page what is the default value of peak voltage?
+2 What difference do you observe between current waveforms of R and RL loads?
+3 What result do you expect when you change the value of load inductance?
+4 What result do you expect when you change the value of load resistance?
+5 Interpret and conclude the experiment.
+
 
 Difficuty level: Remember<br>
 Q.1. When a thyristor if forward biased, the number of blocked p-n junctions is<br>
