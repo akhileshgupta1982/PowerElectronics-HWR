@@ -28,16 +28,16 @@ Experiment 1:To obtain the simulation of single phase half wave controlled recti
 2. click on either R-Load or RL-Load button.<br>
 3. Set the connection in circuit. <br>
 4. Check Connections. <br>
-5.Set the peak value of input supply Vp.<br>
+5. Set the peak value of input supply Vp.<br>
 6.	Set the value of firing Angle α.<br>
 7.	Set the value of load resistance RL and Load inductance L.<br>
-5.	Set the Frequency of input Supply fo.<br>
-6.	Set the Vmax  range.<br>
-7.	Set the Tmax range.<br>
-8.	Change the value of total point for the plot.<br>
-9.	Click on "Draw Waveform" button.<br>
-10.	Click on "Average Voltage" button.<br>
-11.	Click on "RMS Voltage".<br>
+8.	Set the Frequency of input Supply fo.<br>
+9.	Set the Vmax  range.<br>
+10.	Set the Tmax range.<br>
+11.	Change the value of total point for the plot.<br>
+12.	Click on "Draw Waveform" button.<br>
+13.	Click on "Average Voltage" button.<br>
+14.	Click on "RMS Voltage".<br>
 
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
