@@ -39,37 +39,37 @@ Experiment 1:To obtain the simulation of single phase half wave controlled recti
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
 
-Difficuty level: Remember
-Q.1. When a thyristor if forward biased, the number of blocked p-n junctions is
-(a)	1
-(b)	2
-(c)	3
-(d)	4
-Difficuty level: Understand
-Q.2. In a thyristor
-(a)	Latching current IL is associated with turn-off process and holding current IH with turn-on process.
-(b)	Both IL and IH are associated with turn-off process.
-(c)	IH is associated with turn-off process and IL with turn-on process.
-(d)	Both IL and IH are associated with turn-off process.
-Difficuty level: Understand
-Q.3. In a thyristor, the ratio of holding current to latching current is
-(a)	0.4
-(b)	1.0
-(c)	2.5
-(d)	4.0
-(e)	Difficuty level: Understand
-Difficuty level: Apply
-Q.4. The SCR ratings, di/dt in A/µsec and dv/dt in V/µsec, may vary, respectively, between
-(a)	20 to 500, 10 to 100
-(b)	Both 20 to 500
-(c)	Both 10 to 100
-(d)	50 to 300, 20 to 500
-Difficuty level: Apply
-Q.5. When a thyristor if forward biased, the number of blocked p-n junctions is
-(a)	1
-(b)	2
-(c)	3
-(d)	4
+Difficuty level: Remember<br>
+Q.1. When a thyristor if forward biased, the number of blocked p-n junctions is<br>
+(a)	1<br>
+(b)	2<br>
+(c)	3<br>
+(d)	4<br>
+Difficuty level: Understand<br>
+Q.2. In a thyristor<br>
+(a)	Latching current IL is associated with turn-off process and holding current IH with turn-on process.<br>
+(b)	Both IL and IH are associated with turn-off process.<br>
+(c)	IH is associated with turn-off process and IL with turn-on process.<br><br>
+(d)	Both IL and IH are associated with turn-off process.<br>
+Difficuty level: Understand<br>
+Q.3. In a thyristor, the ratio of holding current to latching current is<br>
+(a)	0.4<br>
+(b)	1.0<br>
+(c)	2.5<br>
+(d)	4.0<br>
+(e)	Difficuty level: Understand<br>
+Difficuty level: Apply<br>
+Q.4. The SCR ratings, di/dt in A/µsec and dv/dt in V/µsec, may vary, respectively, between<br>
+(a)	20 to 500, 10 to 100<br>
+(b)	Both 20 to 500<br>
+(c)	Both 10 to 100<br>
+(d)	50 to 300, 20 to 500<br>
+Difficuty level: Apply<br>
+Q.5. When a thyristor if forward biased, the number of blocked p-n junctions is<br>
+(a)	1<br>
+(b)	2<br>
+(c)	3<br>
+(d)	4<br>
 
 
 ##### 2.5 Allow pitfalls:
