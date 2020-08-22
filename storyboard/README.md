@@ -50,33 +50,33 @@ Experiment 1:To obtain the simulation of single phase half wave controlled recti
 5. Interpret and conclude the experiment.<br>
 
 <h5> Task 2: Simulate the half wave controlled rectifier with the simulator. [LO1, LO2, LO3, LO4, LO5]</h5>
-<b>Difficuty level: Remember<br>
+<b>Difficulty level: Remember<br>
 1. The SCR ratings, di/dt in A/µsec and dv/dt in V/µsec, may vary, respectively, between</b><br>
 (a)	20 to 500, 10 to 100.<br>
 <b>(b)	Both 20 to 500.</b><br>
 (c)	Both 10 to 100.<br>
 (d)	50 to 300, 20 to 500.<br></p>
 
-<b>Difficuty level: Understand<br>
+<b>Difficulty level: Understand<br>
 2. A single phase half-wave controlled rectifier is used to feed the DC power to resistive load. If this circuit is fired at an angle α, what will be the shape of output current:<br></b>
 a.	 A full wave similar to input supply.<br>
 b.	A half wave opposite to output voltage.<br>
 <b>c.	A half wave similar to output voltage.</b><br>
 d.	A half wave with α phase lag to output voltage.<br></p>
 
-<b>Difficuty level: Understand<br>
+<b>Difficulty level: Understand<br>
 3. In a thyristor, the ratio of holding current to latching current is<br></b>
 <b>(a)	0.4</b><br>
 (b)	1.0<br>
 (c)	2.5<br>
 (d)	4.0<br></p>
-<b>Difficuty level: Apply
+<b>Difficulty level: Apply
 <p align="justify">4. A single phase half-wave controlled rectifier has 400*sin(314t) as the input voltage and R as the load. For a firing angle of 60<sup>o</sup> for the SCR, the average output voltage is</b><br>
 (a)	400/π<br>
 <b>(b)	300/π</b><br>
 (c)	200/π<br>
 (d)	240/π<br></p>
-<b>Difficuty level: Apply
+<b>Difficulty level: Apply
 <p align="justify">5.  voltage source 200sin*(314t) is applied to a thyristor controlled half-wave rectifier with a resistive load of 50 Ω. If the firing angle is 30<sup>o</sup> with respect to supply voltage waveform, the average power in the load is</b><br>
 (a)	90.6 watts<br>
 (b)	86.3 watts<br>
