@@ -38,7 +38,7 @@ Experiment 1:To obtain the simulation of single phase half wave controlled recti
 
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
-<h1> Task 1: Understanding half wave controlled rectifier experiment</h1><br>
+<h5> Task 1: Understanding half wave controlled rectifier experiment</h5><br>
 Assessment Questions:
 1 Once you move on the simulator page what is the default value of peak voltage?
 2 What difference do you observe between current waveforms of R and RL loads?
