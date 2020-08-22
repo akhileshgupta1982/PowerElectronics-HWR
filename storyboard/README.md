@@ -4,7 +4,7 @@ Experiment 1:To obtain the simulation of single phase half wave controlled recti
 
 ### 1. Story Outline:
 
-<p align="justify">The uses approaches to the simulator to understand the basic concept of firing angle and its use in half wave controlled rectifier. The simulator has six scroll buttons which are used by the user to control the different parameters. User scrolls the firing angle button to change the value of firing instant of the thyristor to control the DC value of output voltage. The resistance scroll button is used by the user to set the load resistance value of the circuit.</p>
+<p align="justify">The user approaches to the simulator to understand the basic concept of firing angle and its use in half wave controlled rectifier. The simulator has six scroll buttons which are used by the user to control the different parameters. User scrolls the firing angle button to change the value of firing instant of the thyristor to control the DC value of output voltage. The resistance scroll button is used by the user to set the load resistance value of the circuit.</p>
 <p align="justify">There are three generalized button for the whole button. User may use the V<sub>max</sub> and T<sub>max</sub> scrolls button to zoom in or zoom out all the plots for clear visualization. User may use the average voltage and RMS voltage buttons for the calculation of corresponding values of output voltages.</p>
 
 
