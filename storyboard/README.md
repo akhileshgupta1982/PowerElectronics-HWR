@@ -16,7 +16,7 @@ Experiment 1:To obtain the simulation of single phase half wave controlled recti
 <p align="justify">The simulator starts with the experiment name on the top and asking for the input whether user need to do experiment for R load or RL load. The simulator consists of five blocks: four blocks with inputs and outputs and one block with drop down instruction lists. User needs to connect the circuit as given in instructions. After proper connections, user needs to enter the desired value of input supply, load resistance, load inductance, frequency and firing angle given in left side block. Now, user may hit the “Draw Waveform” button to obtain the output waveforms in right block and average and RMS output voltage in left block. If user thinks that he enters some wrong value by mistake, there is a RESET button next to Draw Waveform button to reset the inputs. </p>
 
 #### 2.2 Set User Objectives & Goals:
-<p align="justify">The main objective of this experiment is  to let the user know about the functioning of thyristor and its appliaction as half wave controlled rectifier. At the end of the module the student would be able to understand:<p><br>
+<p align="justify">The main objective of this experiment is  to let the user know about the functioning of thyristor and its appliaction as half wave controlled rectifier. At the end of the module the student would be able to understand:<br>
 1.	The difference between half wave uncontrolled rectifier and half wave controlled rectifier.<br>
 2.	The role of firing angle to control the DC and RMS values output voltage.<br>
 3.	The effect of load inductance on the conduction of thyristor.<br>
