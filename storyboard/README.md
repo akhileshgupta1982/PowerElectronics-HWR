@@ -89,10 +89,7 @@ d.	A half wave with α phase lag to output voltage.<br></p>
 3.	Once user hits Draw Waveform button, the values would be locked.<br>
 
 ##### 2.6 Conclusion:
-1. The pre-test and post-test assessment must be provided immediately to the user. <br>
-2. The correct answer must be displayed to the user after clicking the submission button.<br>
-3. This would help the user to gain the basic knowledge of the experiment.<br>
-4. The performance feedback of user should be calculate on the basis of marks assigned to each question <br>
+<p align="justify">After the completion of this experiment, the user will be able to understand the basic concept half wave controlled rectfier. further, student would be also able to understand the effect of inductive load on the functioning of thyristor.</p>
 
 
 ##### 2.7 Equations/formulas:
