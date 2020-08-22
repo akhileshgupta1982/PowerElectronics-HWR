@@ -67,13 +67,13 @@ d.	A half wave with α phase lag to output voltage.<br></p>
 (b)	1.0<br>
 (c)	2.5<br>
 (d)	4.0<br></p>
-<b>Difficuty level: Apply<br>
+<b>Difficuty level: Apply
 <p align="justify">4. A single phase half-wave controlled rectifier has 400*sin(314t) as the input voltage and R as the load. For a firing angle of 60o for the SCR, the average output voltage is</b><br>
 (a)	400/π<br>
 <b>(b)	300/π</b><br>
 (c)	200/π<br>
 (d)	240/π<br></p>
-<b>Difficuty level: Apply<br>
+<b>Difficuty level: Apply
 <p align="justify">5.  voltage source 200sin*(314t) is applied to a thyristor controlled half-wave rectifier with a resistive load of 50 ohm. If the firing angle is 30° with respect to supply voltage waveform, the average power in the load is</b><br>
 (a)	90.6 watts<br>
 (b)	86.3 watts<br>
