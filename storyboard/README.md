@@ -109,4 +109,4 @@ d.	A half wave with α phase lag to output voltage.<br></p>
 ### 4. Mindmap:
 <img src="mindmap/mindmap.png"/>
 ### 5. Storyboard:
-<img src="images/1.PNG"/>
+<img src="images/1.png"/>
