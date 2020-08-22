@@ -25,9 +25,12 @@ Experiment 1:To obtain the simulation of single phase half wave controlled recti
 #### 2.3 Set the Pathway Activities:
 
 1.	click on the simulator tab.<br>
-2.	Set the peak value of input supply Vp.<br>
-3.	Set the value of firing Angle α.<br>
-4.	Set the value of load resistance RL.<br>
+2. click on either R-Load or RL-Load button.<br>
+3. Set the connection in circuit. <br>
+4. Check Connections. <br>
+5.Set the peak value of input supply Vp.<br>
+6.	Set the value of firing Angle α.<br>
+7.	Set the value of load resistance RL and Load inductance L.<br>
 5.	Set the Frequency of input Supply fo.<br>
 6.	Set the Vmax  range.<br>
 7.	Set the Tmax range.<br>
@@ -68,13 +71,13 @@ d.	A half wave with α phase lag to output voltage.<br></p>
 (c)	2.5<br>
 (d)	4.0<br></p>
 <b>Difficuty level: Apply
-<p align="justify">4. A single phase half-wave controlled rectifier has 400*sin(314t) as the input voltage and R as the load. For a firing angle of 60o for the SCR, the average output voltage is</b><br>
+<p align="justify">4. A single phase half-wave controlled rectifier has 400*sin(314t) as the input voltage and R as the load. For a firing angle of 60<sup>o</sup> for the SCR, the average output voltage is</b><br>
 (a)	400/π<br>
 <b>(b)	300/π</b><br>
 (c)	200/π<br>
 (d)	240/π<br></p>
 <b>Difficuty level: Apply
-<p align="justify">5.  voltage source 200sin*(314t) is applied to a thyristor controlled half-wave rectifier with a resistive load of 50 ohm. If the firing angle is 30° with respect to supply voltage waveform, the average power in the load is</b><br>
+<p align="justify">5.  voltage source 200sin*(314t) is applied to a thyristor controlled half-wave rectifier with a resistive load of 50 Ω. If the firing angle is 30<sup>o</sup> with respect to supply voltage waveform, the average power in the load is</b><br>
 (a)	90.6 watts<br>
 (b)	86.3 watts<br>
 (c)	60.8 watts<br>
@@ -86,14 +89,18 @@ d.	A half wave with α phase lag to output voltage.<br></p>
 3.	Once user hits Draw Waveform button, the values would be locked.<br>
 
 ##### 2.6 Conclusion:
-Describe conclusion here : (guide: This may include displaying: how much time did the user take to solve the questions/ How many questions were right?/ How many hints did the learner use. Based on this the evaluation/marking to be suggested to the user. (once he is towards the completion of the experiment, what LO he is taking along with him, what will be his probable, interpretation/conclusion , descriptive) )
+1. The pre-test and post-test assessment must be provided immediately to the user. <br>
+2. The correct answer must be displayed to the user after clicking the submission button.<br>
+3. This would help the user to gain the basic knowledge of the experiment.<br>
+4. The performance feedback of user should be calculate on the basis of marks assigned to each question <br>
+
 
 ##### 2.7 Equations/formulas:
 <b> 1.  For R Load</b><br>
 <b>The average or DC value of the load voltage is given by: </b><br>V<sub>o,avg</sub> = V<sub>m</sub>/2&#120587;(1+cos &prop;)                                      (1)<br>
 <b>The RMS value of the load voltage is given by: </b><br>V<sub>or</sub> = V<sub>m</sub>/2&radic;(&#120587;)   [(&#120587;-&prop;)+1/2(sin 2&prop;)]                (2) <br>
 <b> 2.  For RL Load</b><br>
-<b>The average or DC value of the load voltage is given by: </b><br>V<sub>o,avg</sub> = V<sub>m</sub>/2&#120587;(cos $\beta$-cos &prop;)                                  (1)<br>
+<b>The average or DC value of the load voltage is given by: </b><br>V<sub>o,avg</sub> = V<sub>m</sub>/2&#120587;(cos &#946;-cos &prop;)                                  (1)<br>
 <b>The RMS value of the load voltage is given by: </b><br>V<sub>or</sub> = V<sub>m</sub>/2&radic;(&#120587;)   [(&#120587;-&prop;)+1/2(sin 2&prop;)]                (2) 
 
 ### 3. Flowchart 4
