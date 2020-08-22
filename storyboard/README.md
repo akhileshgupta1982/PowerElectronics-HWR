@@ -109,6 +109,4 @@ d.	A half wave with α phase lag to output voltage.<br></p>
 ### 4. Mindmap:
 <img src="mindmap/mindmap.png"/>
 ### 5. Storyboard :
-Storyboard: <a href="Storyboard/carwiper.gif"> [here]</a>
-Link to storybaord (.gif file ) here :
-(guide: This document should include sketching and description scene wise (duration, action, description). Software to be used for storyboarding : https://wonderunit.com/storyboarder/ (Its a FOSS tool) . tutorial on how to use it https://www.youtube.com/watch?v=LAeCEpG0KX4
+<img src="images/1.PNG"><br>
