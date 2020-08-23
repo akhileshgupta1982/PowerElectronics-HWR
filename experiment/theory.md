@@ -5,8 +5,8 @@
   <td><img src="images/2.png"></td>
   </tr>
   <tr>
-    <td><p align=”center”>(a)</p></td>
-  <td><align =" center">(b)</td>
+    <td>(a)</td>
+  <td>(b)</td>
   </tr>
   </table>
 <p aligh = "justify">For the supply voltage of  , the SCR can conduct only when anode voltage is positive and a gate signal is applied. Therefore, the rectification process of half wave controlled rectifier with R-load can be explained as:</p>
