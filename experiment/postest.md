@@ -1,9 +1,9 @@
 ## Post test
 
 <br>
-<b>Q 1. A single phase half-wave controlled rectifier has 400*sin(314t) as the input voltage and R as the load. For a firing angle of 60o for the SCR, the average output voltage is?</b><br>
+<b>Q 1. A single phase half-wave controlled rectifier has 400*sin(314t) as the input voltage and R as the load. For a firing angle of 60° for the SCR, the average output voltage is?</b><br>
 (a)	400/π<br>
-<b>(b)	300/π<br></b>
+<b>(b)300/π<br></b>
 (c)	200/π<br>
 (d)	240/π<br><br>
 
@@ -14,10 +14,10 @@
 <b>(d)	70.6 watts<br></b>
 
 
-<b>Q.3. A half wave controlled rectifier has a forward resistance RF. The voltage is Vmsinωt and the load resistance is RL. The DC current is given by<br>
+<b>Q.3. A half wave controlled rectifier has a forward resistance R<sub>F</sub>. The voltage is V<sub>m</sub>sinωt and the load resistance is R<sub>L</sub>. if thyristor is fired at an angle &prop;, the DC current is given by<br>
 (a)V<sub>m</sub>/2&#120587;</b><br>
-(b)V<sub>m</sub>/2&#120587;(R<sub>F</sub>+R<sub>m</sub>)<br>
-<b>(c)V<sub>m</sub>/2&#120587;(R<sub>F</sub>+R<sub>m</sub>)(1 + cos0);</b>         
+(b)(V<sub>m</sub>/2&#120587;)(R<sub>F</sub>+R<sub>L</sub>)<br>
+<b>(c)(V<sub>m</sub>/2&#120587;)(R<sub>F</sub>+R<sub>L</sub>)(1 + cos0);</b>         
 (d)V<sub>m</sub>/2R<sub>F</sub><br>
 
 
