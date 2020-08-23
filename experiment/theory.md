@@ -4,7 +4,7 @@
     <td><img src="images/1.png"></td>
   <td><img src="images/2.png"></td>
   </tr>
-  
+  <tr>
     <td><align =" center">(a)</td>
   <td><align =" center">(b)</td>
   </tr>
