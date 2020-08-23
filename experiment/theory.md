@@ -21,7 +21,7 @@
   <img src="images/4.PNG"><br>
 <h5>•	For R-Load</h5>
 <b>The average or DC value of the load voltage is given by: </b><br>
-<pre><p align = "center"><h4>V<sub>o,avg</sub> =(V<sub>m</sub>/2&#120587;)(1+cos &prop;) </h4>                                                              (1)</p></pre><br>
+<p align = "center"><pre>V<sub>o,avg</sub> =(V<sub>m</sub>/2&#120587;)(1+cos &prop;)                                                               (1)</pre></p><br>
 <b>The RMS value of the load voltage is given by: </b><br>
 <p align = "center">V<sub>or</sub> = (V<sub>m</sub>/2&radic;&#120587;)   [(&#120587;-&prop;)+(1/2)(sin 2&prop;)] <sup>1/2</sup>               (2) </p><br>
 The average or DC value of the load current is given by<br>
