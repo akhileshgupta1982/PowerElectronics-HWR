@@ -23,7 +23,7 @@
 <b>The average or DC value of the load voltage is given by: </b><br>
 <p align ="center"><pre>V<sub>o,avg</sub> =(V<sub>m</sub>/2&#120587;)(1+cos &prop;)                                                               (1)</pre></p><br>
 <b>The RMS value of the load voltage is given by: </b><br>
-<p align ="center"><pre>V<sub>or</sub> =(V<sub>m</sub>/2&radic;&#120587;)[(&#120587;-&prop;)+(1/2)(sin 2&prop;)]<sup>1/2</sup>                                              (2)</pre></p><br>
+<p align ="center"><pre>V<sub>or</sub> =(V<sub>m</sub>/2&radic;&#120587;)[(&#120587;-&prop;)+(1/2)(sin 2&prop;)]<sup>1/2</sup>                                                 (2)</pre></p><br>
 <b>The average or DC value of the load current is given by</b><br>
 <p align ="center"><pre>V<sub>o,avg</sub> =(V<sub>m</sub>/2&#120587;R)(1+cos &prop;)                                                              (3)</pre></p><br>
 <p align ="justify">Increasing α by firing the SCR later in the cycle lowers the voltage, and vice versa. The maximum average output voltage occurs when α = 0° and given by</p><br><p align = "center"><pre>V<sub>o,avg</sub> =(V<sub>m</sub>/2&#120587;)(1+cos 0)= V<sub>m</sub>/2&#120587;                                                         (4)</pre></p><br>
@@ -32,7 +32,7 @@ This is the same voltage as for a half-wave diode rectifier. Therefore, if the S
 <b>The average or DC value of the load voltage is given by: </b><br>
 <p align = "center"><pre>V<sub>o,avg</sub> =(V<sub>m</sub>/2&#120587;)(cos &#946;-cos &prop;)                                                            (5)</pre></p><br>
 <b>The RMS value of the load voltage is given by: </b><br>
-<p align = "center"><pre>V<sub>or</sub> =(V<sub>m</sub>/2&radic;&#120587;)[(&#946;-&prop;)+1/2(sin 2&#946;-sin 2&prop;)]<sup>1/2</sup>                                      (6)</pre></p><br>
+<p align = "center"><pre>V<sub>or</sub> =(V<sub>m</sub>/2&radic;&#120587;)[(&#946;-&prop;)+1/2(sin 2&#946;-sin 2&prop;)]<sup>1/2</sup>                                          (6)</pre></p><br>
 The average or DC value of the load current is given by<br>
 <p align = "center"><pre>V<sub>o,avg</sub> =(V<sub>m</sub>/2&#120587;R)(cos &#946;-cos &prop;)                                                            (7)</pre></p><br>
                                                                                     
