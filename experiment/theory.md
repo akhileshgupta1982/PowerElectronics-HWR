@@ -15,7 +15,7 @@
 <p aligh = "justify">3.	The SCR stays off until the gate signal is applied again at (α + 2π). </p>
 <p aligh = "justify">The period from 0 to α in Fig. 2 represents the time in the positive half-cycle when the SCR is off. This angle (measured in degrees) is called the firing angle (α). The SCR conducts from α to π; this angle is called the conduction angle (θ).</p>
 <p aligh = "justify">Unlike R Load, thyristor does not go into blocking state at ωt = π as inductance forces to load current rise gradually. After ωt = π, output current output current approaches to zero at some angle β called extinction angle and (β – α) = γ is called conduction angle. Different waveforms for RL load is shown in Fig. 3.<p>
-  <img src="images/3.PNG"><br>
+  <img src="images/3.png">
   <img src="images/4.PNG"><br>
 •	For R-Load
 The average or DC value of the load voltage is given by
