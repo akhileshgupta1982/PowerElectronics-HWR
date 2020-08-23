@@ -1,6 +1,9 @@
 <p aligh = "justify">The circuit diagram of single phase half wave controlled rectifier with resistive R load and RL load is shown in Fig. 1(a) and Fig. 1(b) respectively. This is the simplest form of controlled rectifier which consists of a single thyristor feeding DC power to a resistive load or inductive load.</p>
-<img src="images/1.png"><br>
-<img src="images/2.png"><br>
+<div class="column">
+<img src="images/1.png">
+  </div>
+  <div class="column">
+<img src="images/2.png"></div><br>
 <p aligh = "justify">For the supply voltage of  , the SCR can conduct only when anode voltage is positive and a gate signal is applied. Therefore, the rectification process of half wave controlled rectifier with R-load can be explained as:</p>
 <p aligh = "justify">1.	During the positive half-cycle of the supply voltage, the SCR is forward-biased and will conduct if a trigger is applied to the gate. Let, SCR is triggered at some firing angle α, the load current flows and the output voltage Vo will be the same as the input voltage. <p>
 <p aligh = "justify">2.	At time t = π, the current falls natural to zero, since the SCR is reverse-biased. Therefore, during the negative half-cycle, the SCR blocks the flow of current, and no voltage is applied to the load. </p>
