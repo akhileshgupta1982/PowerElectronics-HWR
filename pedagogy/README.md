@@ -90,9 +90,9 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 Sr. No. | What Students will do? |	What Simulator will do?	| Purpose of the task
 :--|:--|:--|:--:
 1.| <p align="justify">Click on the simulator tab.</p> | <p align="justify">Simulator screen of the experiment will open up.</p> | <p align="justify">To open the simulator screen for perform the experiment.</p>
-2.| <p align="justify">Set the peak value of input supply V<sub>p</sub>.</p> | <p align="justify">Change the peak value of input supply.</p> | <p align="justify">Calculation of average output voltage.</p>
+2.| <p align="justify">Set the peak value of input supply V<sub>m</sub>.</p> | <p align="justify">Change the peak value of input supply.</p> | <p align="justify">Calculation of average output voltage.</p>
 3.| <p align="justify">Set the value of firing Angle α.</p> | <p align="justify">Display the output waveform of the circuit delayed by α angle.</p> | <p align="justify">To see the effect of firing angle on output waveform and average and RMS value calculation.</p>
-4.| <p align="justify">Set the value of load resistance R<sub>L</sub>.</p> | <p align="justify">Change the value of load resistance.</p> | <p align="justify">To see the effect on current waveform.</p>
+4.| <p align="justify">Set the value of load resistance R<sub>L</sub> and load inductance L<sub>L</sub>.</p> | <p align="justify">Change the value of load .</p> | <p align="justify">To see the effect on current waveform.</p>
 5.| <p align="justify">Set the frequency of input Supply f<sub>o</sub>.</p> | <p align="justify">Change the value frequency of input supply.</p> | <p align="justify">For the input source having frequency other than default value .</p>
 6.| <p align="justify">Set the V<sub>max</sub>  range.</p> | <p align="justify">Change the range of y-axis plot for different plots.</p> | <p align="justify">To zoom in or zoom out along the y-axis to see the clear waveform .</p>
 7.| <p align="justify">Set the T<sub>max</sub>  range.</p> | <p align="justify">Change the range of x-axis plot for different plots.</p> | <p align="justify">To zoom in or zoom out along the x-axis to see the clear waveform .</p>
