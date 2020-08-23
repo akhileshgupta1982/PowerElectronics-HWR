@@ -5,7 +5,7 @@
   <td><img src="images/2.png"></td>
   </tr>
   <tr>
-    <td>(a)</td>
+    <td><p align = "center">(a)</p></td>
   <td>(b)</td>
   </tr>
   </table>
@@ -14,7 +14,7 @@
 <p align = "justify">2.	At time t = π, the current falls natural to zero, since the SCR is reverse-biased. Therefore, during the negative half-cycle, the SCR blocks the flow of current, and no voltage is applied to the load. </p>
 <p align = "justify">3.	The SCR stays off until the gate signal is applied again at (α + 2π). </p>
 <p align = "justify">The period from 0 to α in Fig. 2 represents the time in the positive half-cycle when the SCR is off. This angle (measured in degrees) is called the firing angle (α). The SCR conducts from α to π; this angle is called the conduction angle (θ).</p>
-<p aligh = "justify">Unlike R Load, thyristor does not go into blocking state at ωt = π as inductance forces to load current rise gradually. After ωt = π, output current output current approaches to zero at some angle β called extinction angle and (β – α) = γ is called conduction angle. Different waveforms for RL load is shown in Fig. 3.</p>
+<p align = "justify">Unlike R Load, thyristor does not go into blocking state at ωt = π as inductance forces to load current rise gradually. After ωt = π, output current output current approaches to zero at some angle β called extinction angle and (β – α) = γ is called conduction angle. Different waveforms for RL load is shown in Fig. 3.</p>
   <img src="images/3.png">
   <img src="images/4.PNG"><br>
 <h5>•	For R-Load</h5>
