@@ -1,1 +1,1 @@
-To study the Half Wave Controlled Rectifier with a Resistive Load.
+To study the Half Wave Controlled Rectifier with a R Load and RL Load.
