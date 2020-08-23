@@ -106,6 +106,5 @@ d.	A half wave with α phase lag to output voltage.<br></p>
 <img src="mindmap/mindmap.png"/></br>
 
 #### 5. Storyboard:
-<img src="images/1.png"/>
-<img src="images/2.png"/>
-<img src="images/3.png"/>
+<img src="images/storyboard.png"/>
+
