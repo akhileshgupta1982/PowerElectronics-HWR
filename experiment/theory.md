@@ -5,7 +5,7 @@
   <td><img src="images/2.png"></td>
   </tr>
   <tr>
-    <td><align =" center">(a)</td>
+    <td><div align=”center”>(a)</div></td>
   <td><align =" center">(b)</td>
   </tr>
   </table>
