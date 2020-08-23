@@ -1,0 +1,179 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="RL_Simulator.css">
+    <script type="text/javascript" src="RL_sin_plot1.js"></script>
+	<script type="text/javascript" src="RL_fr_change.js"></script>
+	<script type="text/javascript" src="RL_Vm_change.js"></script> 
+	<script type="text/javascript" src="RL_fa_change.js"></script>
+    <script type="text/javascript" src="RL_V_avr.js"></script>
+	<script type="text/javascript" src="RL_vmax_change.js"></script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+    <title>RL_Simulator</title>
+
+    <script>
+        function pageRedirect() {
+        window.location.href = "Simulator.html";
+    }
+        function reloadPage(){
+        location.reload(true);
+    }
+    </script>
+
+</head>
+<body data-demo-id="animation"; style=onload="init()">
+	<div class="wholebody">
+		<div class="heading col">
+    		<b>Half Wave Controlled Rectifier</b>
+    	</div>
+    	<div class="row no-gutters">
+    		<div class="col-md-6 no-gutters">
+    			<div class="leftside">
+    				<div class="description">
+    					<div class="dropdown">
+                    		<p class="sub_heading"> INSTRUCTION</p>
+                    		<div class="dropdown-content">
+                        		<ol type="1">
+                            		<li>Connections are Explained below: <br>L1-L2, L4-L5, L6-L7, L7-L8, L9-L10, L10-L11, L11-L12. </li>
+									<li>L3 is connected to external firing circuit not mentioned here.</li>
+                            		<li>Set the peak value of input supply Vp.</li>
+                            		<li>Set the frequency of input supply fo.</li>
+                            		<li>Set the y-axis range Vmax [Vmax = at least 2Vp]</li>
+                            		<li>Set the x-axis range Tmax.</li>
+                            		<li>Set the value of firing angle alpha.</li>
+                            		<li>Click on draw waveform.</li>
+									<li>Calculate Output Average Voltage \[V_{o,avg} = {V_m \over 2\pi}(cos \alpha-cos \beta)\]</li>
+                            		<li>Calculate Output RMS Voltage \[V_{o,rms} = {V_m \over 2\sqrt\pi}[(\beta - \alpha) - {1\over2}(sin 2\beta-sin 2\alpha)]^{1\over2}\]</li>
+                        		</ol> 
+                    		</div>
+                		</div>
+            		</div>
+					<div class="controls">
+            			<p class="sub_heading"> CONTROLS</p>
+            			<div class="table">
+            				<table id="mytable" border="2">                    
+                        		<tbody>
+          						<form name="myForm" method = "get" style="width:500px; font-size: medium; font-family:Arial">
+                        			<tr>
+                            			<th>V<sub>m</sub> (V) Peak Voltage</th>
+                            			<th><input type="range" orient="vertical" id="Vp" min="200" max="450" step='5' value="200"  oninput="Vchange()" enabled=true;></th>
+                            			<th><input type="text" id="Voltage_amplitude" placeholder="Voltage_amplitude(200V)" readonly ><label id="Voltage_amplitude">V</label></th>
+                        			</tr>
+                        			<tr>
+                            			<th>Firing angle alpha</th>
+                            			<th><input type="range" orient="vertical" id="FA" min="0" max="90" step='1' value="0" oninput="FAG()" enabled=true></th>
+                            			<th><input type="text" id="FAN" placeholder="Firing angle (0)" readonly >  <label id="FAN">Degree</label></th>
+                        			</tr>
+                        			<tr>
+                            			<th>R<sub>L</sub> (&#8486) Load Resistance</th>
+                            			<th><input type="range" orient="vertical" id="RL" min="5" max="100" step='5' value="5"  oninput="Rchange()" enabled=true;></th>
+                            			<th><input type="text" id="Load_Resistance" placeholder="Load_Resistance (1K)" readonly ><label id="Load_Resistance">k&#8486</label></th>
+                        			</tr>
+									<tr>
+                            			<th>L<sub>L</sub> (H) Load Inductance</th>
+                            			<th><input type="range"orient="vertical"id="L"min="0.001"max="0.010"step='0.001'value="0.001" oninput="Lchange()" enabled=true;></th>
+                            			<th><input type="text" id="Load_Inductance" placeholder="Load_Inductance (1mH)" readonly >  <label id="Load_Inductance">H</label></th>
+                        			</tr>
+                        			<tr>
+                            			<th>fo (Hz) Sine frequency</th>
+                            			<th><input type="range" orient="vertical" id="fo" min="20" max="100" step='5' value="20" size = "4" oninput="Frq()" enabled=true;></th>
+                            			<th><input type="text" id="Frequency" placeholder="Frequency (20 Hz)" readonly >  <label id="Frequency">Hz</label></th>
+                        			</tr>                        	
+                        			<tr>
+                            			<th>V<sub>max</sub> (V) for plot</th>
+                            			<th><input type="range" orient="vertical" id="Vmax" min="410" max="910" step='10' value="410"  oninput="Vrange()" enabled=true;></th>
+                            			<th><input type="text" id="V_max" placeholder="Range of y-axis at least 2Vp (410)" readonly >  <label id="V_max">V</label></th>
+                        			</tr>                        	
+                        			<tr>
+                            			<th>Tmax (s) for plot</th>
+                            			<th><input type="range" orient="vertical" id="Tmax" min="0.1" max="1" step='0.1' value="0.1"  oninput="Trange()" enabled=true;></th>
+                            			<th><input type="text" id="T_max" placeholder="Range of x-axis (0.1)" readonly >  <label id="T_max">sec</label></th>
+                        			</tr>
+                        			<tr>
+                					<th>Total points for plot:</th>
+                					<th ><input type="text" name="N" size="10" value="100000"></th>
+                					<th><input type="button" value="Draw Waveform" onclick="draw()"></th>
+                				</tr>
+                				</form>
+                        		</tbody>
+                			</table>
+            			</div>            	
+            		</div>
+
+    			</div>
+    		</div>
+
+
+
+    		<!-- ###############rightside########################################################################################################### -->
+    		<div class="col-md-6 no-gutters">
+    			<div class="rightside">
+    				<div class="circuitsection">
+    					<div class="ckt">
+                		<p class="sub_heading"> CIRCUIT CONNECTION</p>
+                        <img src="RL_HCR.jpg" width=400px;height=450px; class="cktimg">
+                        <button class="btn_RL" type="button" onclick="pageRedirect()">Go to HCR</button>
+                        <button class="btn_reload" type="button" onclick="reloadPage();">Reload page</button> 
+
+
+
+                		</div>
+    				</div>
+    				<div class="output_values">
+    					<div class="out_put">
+                		<p class="sub_heading"> OUTPUT VALUES</p>
+                		<!-- <ol type="1"><br>
+                			<li>\[Vo,avg = {Vm \over 2\pi}(1 + cos \alpha)\]</li>
+                           	<li>\[Vo,rms = {Vm \over 2\sqrt\pi}[(\pi - \alpha) + {1\over2}sin 2\alpha]^{1\over2}\]</li>
+                			
+                		</ol> --><br>
+                		<table >
+                			<tr>
+                				<td> &nbsp; &nbsp; &nbsp;<input type = "button" value = "Average_Voltage"  onclick = "V_avg();" ></td>
+                				<td> &nbsp; &nbsp; &nbsp;<output name = "Average_Voltage"></output></td>
+              				</tr>
+                            <td><br></td>
+              				<tr>
+                				<td> &nbsp; &nbsp; &nbsp;<input type = "button" value = "RMS_Voltage"  onclick = "V_rms();" ></td>
+                				<td> &nbsp; &nbsp; &nbsp;<output name = "RMS_Voltage"></output></td>
+              				</tr>
+                		</table>
+                	</form>
+                		</div>
+    				</div>
+
+
+    			</div>
+    		</div>
+
+    		<div class="col-md-12 no-gutters">
+    			<div class="buttom">
+    				<div class="output_graph">
+    					<div class="grph">
+                		<p class="sub_heading"> OUTPUT GRAPH</p>
+                		<div class="V">V<sub>o</sub></div>
+                		<div class="VT">V<sub>T</sub></div> 
+                		<div class="i">i<sub>o</sub></div>
+                		<div id="out"><br><br><br>
+              				<p><canvas id="canvas" width="1050" height="201"></canvas></p>
+					  	</div>
+                		</div>
+    				</div>
+    			<!-- </form> -->
+    			</div>
+    		</div>
+    	</div>
+
+
+
+
+
+	</div>
+</body>
+</html>
