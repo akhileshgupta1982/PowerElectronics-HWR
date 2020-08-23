@@ -18,7 +18,7 @@
 <p align = "justify">Unlike R Load, thyristor does not go into blocking state at ωt = π as inductance forces to load current rise gradually. After ωt = π, output current output current approaches to zero at some angle β called extinction angle and (β – α) = γ is called conduction angle. Different waveforms for RL load is shown in Fig. 3.</p>
  <p align = "center"> <img src="images/3.png"></p>
    <p align = "center"><b>Fig. 2. Half wave controlled rectifier output plots with R load</b></p>
-  <img src="images/4.png"><br>
+  <p align = "center"><img src="images/4.png"><br></p>
   <p align = "center"><b>Fig. 3. Half wave controlled rectifier output plots with RL load</b></p>
 <h5>•	For R-Load</h5>
 <b>The average or DC value of the load voltage is given by: </b><br>
