@@ -27,10 +27,10 @@
 2. click on either R-Load or RL-Load button.<br>
 3. Set the connection in circuit. <br>
 4. Check Connections. <br>
-5. Set the peak value of input supply Vp.<br>
+5. Set the peak value of input supply V<sub>p</sub>.<br>
 6.	Set the value of firing Angle α.<br>
-7.	Set the value of load resistance RL and Load inductance L.<br>
-8.	Set the Frequency of input Supply fo.<br>
+7.	Set the value of load resistance R<sub>L</sub> and Load inductance L<sub>L</sub>.<br>
+8.	Set the Frequency of input Supply f<sub>o</sub>.<br>
 9.	Set the V<sub>max</sub>  range.<br>
 10.	Set the T<sub>max</sub> range.<br>
 11.	Change the value of total point for the plot.<br>
