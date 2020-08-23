@@ -4,8 +4,7 @@
 
 ### 1. Story Outline:
 
-<p align="justify">The user approaches to the simulator to understand the basic concept of firing angle and its use in half wave controlled rectifier. The simulator has six scroll buttons which are used by the user to control the different parameters. User scrolls the firing angle button to change the value of firing instant of the thyristor to control the DC value of output voltage. The resistance scroll button is used by the user to set the load resistance value of the circuit.</p>
-<p align="justify">There are three generalized button for the whole button. User may use the V<sub>max</sub> and T<sub>max</sub> scrolls button to zoom in or zoom out all the plots for clear visualization. User may use the average voltage and RMS voltage buttons for the calculation of corresponding values of output voltages.</p>
+<p align="justify"> The experiment is about the functioning of thyristor and to control the DC output voltage by the firing angle. Further. the experiment also describe the half wave controlled rectification process which is very useful for obtaing the desired output voltage for different applications. Second part of ths experiment explain the effect of inductive load on the performance of thyristor.  </p>
 
 
 ### 2. Story:
@@ -32,8 +31,8 @@
 6.	Set the value of firing Angle α.<br>
 7.	Set the value of load resistance RL and Load inductance L.<br>
 8.	Set the Frequency of input Supply fo.<br>
-9.	Set the Vmax  range.<br>
-10.	Set the Tmax range.<br>
+9.	Set the V<sub>max</sub>  range.<br>
+10.	Set the T<sub>max</sub> range.<br>
 11.	Change the value of total point for the plot.<br>
 12.	Click on "Draw Waveform" button.<br>
 13.	Click on "Average Voltage" button.<br>
@@ -98,7 +97,7 @@ d.	A half wave with α phase lag to output voltage.<br></p>
 <b>The RMS value of the load voltage is given by: </b><br>V<sub>or</sub> = V<sub>m</sub>/2&radic;(&#120587;)   [(&#120587;-&prop;)+1/2(sin 2&prop;)]                (2) <br>
 <b> 2.  For RL Load</b><br>
 <b>The average or DC value of the load voltage is given by: </b><br>V<sub>o,avg</sub> = V<sub>m</sub>/2&#120587;(cos &#946;-cos &prop;)                                  (1)<br>
-<b>The RMS value of the load voltage is given by: </b><br>V<sub>or</sub> = V<sub>m</sub>/2&radic;(&#120587;)   [(&#946;-&prop;)+1/2(sin 2&#946;-sin 2&prop;)<sup>1/2</sup>]                (2) 
+<b>The RMS value of the load voltage is given by: </b><br>V<sub>or</sub> = V<sub>m</sub>/2&radic;(&#120587;)   [(&#946;-&prop;)+1/2(sin 2&#946;-sin 2&prop;)]<sup>1/2</sup>       (2) 
 
 #### 3. Flowchart
 <img src="flowchart/flowchart.png"/><br>
