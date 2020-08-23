@@ -21,7 +21,7 @@
   <img src="images/4.PNG"><br>
 <h5>•	For R-Load</h5>
 <b>The average or DC value of the load voltage is given by: </b><br>
-<pre><p align = "center">V<sub>o,avg</sub> =(V<sub>m</sub>/2&#120587;)(1+cos &prop;)                                                               (1)</p><br></pre>
+<pre><p align = "center"><h4>V<sub>o,avg</sub> =(V<sub>m</sub>/2&#120587;)(1+cos &prop;) </h4>                                                              (1)</p></pre><br>
 <b>The RMS value of the load voltage is given by: </b><br>
 <p align = "center">V<sub>or</sub> = (V<sub>m</sub>/2&radic;&#120587;)   [(&#120587;-&prop;)+(1/2)(sin 2&prop;)] <sup>1/2</sup>               (2) </p><br>
 The average or DC value of the load current is given by<br>
@@ -31,11 +31,11 @@ The average or DC value of the load current is given by<br>
 This is the same voltage as for a half-wave diode rectifier. Therefore, if the SCR is fired at α = 0°, the circuit acts like a diode rectifier.<br>
 <h5>•	For RL-Load</h5>
 <b>The average or DC value of the load voltage is given by: </b><br>
-<p align = "center">V<sub>o,avg</sub> = (V<sub>m</sub>/2&#120587;)(cos &#946;-cos &prop;)                                                     (5)</p><br>
+<p align = "center">V<sub>o,avg</sub> = (V<sub>m</sub>/2&#120587;)(cos &#946;-cos &prop;)                                                     (5)<p><br>
 <b>The RMS value of the load voltage is given by: </b><br>
-  <p align = "center">V<sub>or</sub> = (V<sub>m</sub>/2&radic;&#120587;)   [(&#946;-&prop;)+1/2(sin 2&#946;-sin 2&prop;)]<sup>1/2</sup>       (6) (/p)<br>
+  <p align = "center">V<sub>or</sub> = (V<sub>m</sub>/2&radic;&#120587;)   [(&#946;-&prop;)+1/2(sin 2&#946;-sin 2&prop;)]<sup>1/2</sup>       (6) (p)<br>
 The average or DC value of the load current is given by<br>
-   <p align = "center">V<sub>o,avg</sub> = (V<sub>m</sub>/2&#120587;R)(cos &#946;-cos &prop;)                                                 (7)(/p)<br>
+   <p align = "center">V<sub>o,avg</sub> = (V<sub>m</sub>/2&#120587;R)(cos &#946;-cos &prop;)                                                 (7)(p)<br>
                                                                                     
                                                                                     
                                                                                     
