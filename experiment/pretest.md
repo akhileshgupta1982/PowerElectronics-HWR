@@ -1,11 +1,11 @@
 ﻿## Pre-test
 #### Please attempt the following questions
 
-<p align="justify"><b>Q.1. When a thyristor if forward biased, the number of blocked p-n junctions is</b></p>
+<p align="justify"><b>Q.1. When a thyristor if forward biased, the number of blocked p-n junctions is</b>
 <b>(a) 1</b><br>
 (b)	2<br>
 (c)	3<br>
-(d)	4<br>
+(d)	4<br><br>
 
 <p align="justify"><b>Q.2. In a thyristor</b></p>
 (a)	Latching current IL is associated with turn-off process and holding current IH with turn-on process.<br>
