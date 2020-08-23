@@ -4,6 +4,10 @@
     <td><img src="images/1.png"></td>
   <td><img src="images/2.png"></td>
   </tr>
+  
+    <td><align =" center">(a)</td>
+  <td><align =" center">(b)</td>
+  </tr>
   </table>
 <p aligh = "justify">For the supply voltage of  , the SCR can conduct only when anode voltage is positive and a gate signal is applied. Therefore, the rectification process of half wave controlled rectifier with R-load can be explained as:</p>
 <p aligh = "justify">1.	During the positive half-cycle of the supply voltage, the SCR is forward-biased and will conduct if a trigger is applied to the gate. Let, SCR is triggered at some firing angle α, the load current flows and the output voltage Vo will be the same as the input voltage. <p>
