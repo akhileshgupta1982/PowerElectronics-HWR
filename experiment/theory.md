@@ -6,7 +6,7 @@
   </tr>
   <tr>
     <td><p align = "center">(a)</p></td>
-  <td>(b)</td>
+  <td><p align = "center">(b)</p></td>
   </tr>
   </table>
 <p align = "justify">For the supply voltage of  , the SCR can conduct only when anode voltage is positive and a gate signal is applied. Therefore, the rectification process of half wave controlled rectifier with R-load can be explained as:</p>
@@ -15,7 +15,7 @@
 <p align = "justify">3.	The SCR stays off until the gate signal is applied again at (α + 2π). </p>
 <p align = "justify">The period from 0 to α in Fig. 2 represents the time in the positive half-cycle when the SCR is off. This angle (measured in degrees) is called the firing angle (α). The SCR conducts from α to π; this angle is called the conduction angle (θ).</p>
 <p align = "justify">Unlike R Load, thyristor does not go into blocking state at ωt = π as inductance forces to load current rise gradually. After ωt = π, output current output current approaches to zero at some angle β called extinction angle and (β – α) = γ is called conduction angle. Different waveforms for RL load is shown in Fig. 3.</p>
-  <img src="images/3.png">
+ <p align = "center"> <img src="images/3.png"></p>
   <img src="images/4.PNG"><br>
 <h5>•	For R-Load</h5>
 The average or DC value of the load voltage is given by<br>
