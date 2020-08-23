@@ -19,8 +19,7 @@
  3<sup>rd</sup> year Electrical Engineering students, Electrical and Electronics faculties
 
 <h5> Course Alignment : </h5>
-
-Student will be able to understand basic concept of half wave controlled rectifier.
+Power Electronics.
 
 <h5> Universities Mapped : </h5>
 AKTU Lucknow
