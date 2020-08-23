@@ -20,19 +20,24 @@
    <p align = "center">Fig. 2. Half wave controlled rectifier output plots</p>
   <img src="images/4.PNG"><br>
 <h5>•	For R-Load</h5>
-The average or DC value of the load voltage is given by<br>
-                                                                                                           (1)<br>
-The RMS value of the load voltage is given by<br>
-                                                                                        (2)<br>
+<b>The average or DC value of the load voltage is given by: </b><br>
+<p align = "center">V<sub>o,avg</sub> =(V<sub>m</sub>/2&#120587;)(1+cos &prop;)                                      (1)<br>
+<b>The RMS value of the load voltage is given by: </b><br>
+<p align = "center">V<sub>or</sub> = (V<sub>m</sub>/2&radic;(&#120587;))   [(&#120587;-&prop;)+1/2(sin 2&prop;)]                (2) <br>
 The average or DC value of the load current is given by<br>
-                                                                                            (3)<br>
+  <p align = "center">V<sub>o,avg</sub> = (V<sub>m</sub>/2&#120587;R)(1+cos &prop;)                                                                                          (3)<br>
 Increasing α by firing the SCR later in the cycle lowers the voltage, and vice versa. The maximum average output voltage occurs when α = 0° and given by<br>
                                                                                                      (4)<br>
 This is the same voltage as for a half-wave diode rectifier. Therefore, if the SCR is fired at α = 0°, the circuit acts like a diode rectifier.<br>
 <h5>•	For RL-Load</h5>
-The average or DC value of the load voltage is given by<br>
-                                                                                                    (5)<br>
-The RMS value of the load voltage is given by<br>
-                                                                  (6)<br>
+<b>The average or DC value of the load voltage is given by: </b><br>
+<p align = "center">V<sub>o,avg</sub> = V<sub>m</sub>/2&#120587;(cos &#946;-cos &prop;)                                  (1)<br>
+<b>The RMS value of the load voltage is given by: </b><br>
+  <p align = "center">V<sub>or</sub> = V<sub>m</sub>/2&radic;(&#120587;)   [(&#946;-&prop;)+1/2(sin 2&#946;-sin 2&prop;)]<sup>1/2</sup>       (2) 
 The average or DC value of the load current is given by<br>
                                                                                     (7)<br>
+                                                                                    
+                                                                                    
+                                                                                    
+
+
