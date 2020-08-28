@@ -322,9 +322,9 @@ jsPlumb.ready(function () {
         if (is_connected_1_3 && is_connected_2_7 && is_connected_7_6 && is_connected_4_5   && !unallowed_connection_present) {
 			
 			
-			alert("RIGHT CONNECTION ");
+			alert("CORRECT CONNECTION ");
             } else {
-               alert("WRONG CONNECTION");
+               alert("INCORRECT CONNECTION");
                 return;
             }  
 
