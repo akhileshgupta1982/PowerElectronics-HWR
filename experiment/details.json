@@ -5,14 +5,14 @@
 			"Experiment": ") To obtain the simulation of single phase half wave controlled rectifier with R and RL load and plot load voltage and load current waveforms",     
 			"Lab": "Power Electronics",               
 			"Discipline": "Electrical Engineering",				 
-			"Technology": "HTML,CSS,JAVASCRIPT"         
+			"Technology": "Engineering"         
        }
    ],
 
    "developer": [
        {       
       "Developer": "Dr. Akhilesh Kumar Gupta ",         
-      "Institute": "BN College Of Engineering And Technology",         
+      "Institute": "BN College Of Engineering And Technology,Lucknow",         
       "InstituteAcronym": "BNCET"   
        }
    ],
@@ -20,25 +20,25 @@
    "contributer": [
        {       
 			"Contributer": "Siddhant Pratap Singh",             
-      "Institute": "",               
+      "Institute": "BN College Of Engineering And Technology,Lucknow",               
 			"InstituteAcronym": "BNCET"         
        },
 
        {       
 			"Contributer": "Shah Alam",              
-      "Institute": "",               
+      "Institute": "BN College Of Engineering And Technology,Lucknow",               
 			"InstituteAcronym": "BNCET"         
        },
 
        {       
 			"Contributer": "Sakshi Agarwal",             
-      "Institute": "",               
+      "Institute": "BN College Of Engineering And Technology,Lucknow",               
 			"InstituteAcronym": "BNCET"         
        },
 
        {       
 			"Contributer": "Anwar Abbas",              
-      "Institute": "",               
+      "Institute": "BN College Of Engineering And Technology,Lucknow",               
 			"InstituteAcronym": "BNCET"         
        }
    ]
