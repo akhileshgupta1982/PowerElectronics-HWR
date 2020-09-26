@@ -8,7 +8,7 @@
 <b>Discipline </b>| <b>Electrical Engineering</b>
 :--|:--|
 <b> Lab </b> | <b> Power Electronics Lab</b>
-<b> Experiment</b>| <p align="justify"> <b> 1.  To obtain the simulation of single phase half wave controlled rectifier with R and RL load and plot load voltage and load current waveforms.</p></b>
+<b> Experiment</b>| <p align="justify"> <b> To obtain the simulation of single phase half wave controlled rectifier with R and RL load and plot load voltage and load current waveforms.</p></b>
 
 
 <h4> [1. Focus Area](#LO)
