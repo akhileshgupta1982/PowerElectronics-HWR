@@ -15,7 +15,8 @@
 <br>
 <br>
 <a name="LO"></a>
-#### 1. Focus Area :<ol type="1">
+#### 1. Focus Area:
+<ol type="1">
 <li>Reinforce theoretical concept</li>
 <li>Guided inquiry </li>  </ol>
 
