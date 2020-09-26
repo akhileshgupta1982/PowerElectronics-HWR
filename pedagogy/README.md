@@ -14,7 +14,7 @@
 <hr>
 <br>
 <br>
-<a name="LO"></a>
+<a name="LO"></a><br>
 #### 1. Focus Area:
 <ol type="1">
 <li>Reinforce theoretical concept</li>
