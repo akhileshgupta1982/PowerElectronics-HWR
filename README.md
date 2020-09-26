@@ -16,13 +16,13 @@
 
 
 <h5> Target Audience : </h5>
- 3<sup>rd</sup> year Electrical Engineering students, Electrical and Electronics faculties
+Faculty and students of Electrical and Electronics Engineering
 
 <h5> Course Alignment : </h5>
-Power Electronics.
+Electrical Engineering (B.Tech).
 
 <h5> Universities Mapped : </h5>
-AKTU Lucknow
+Dr. A.P.J. Abdul Kalam Technical University Uttar Pradesh, Lucknow
 <br>
 <br>
 
