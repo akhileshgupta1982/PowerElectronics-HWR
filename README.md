@@ -5,7 +5,7 @@
 <b>Discipline | <b>Electrical Engineering
 :--|:--|
 <b> Lab | <b> Power Electronics
-<b> Experiment|    <p align="justify"> <b>To obtain the simulation of single phase half wave controlled rectifier with R and RL load and plot load voltage and load current waveforms.</p><br>
+<b> Experiment|    <p align="justify"> <b>To obtain the simulation of single phase half wave controlled rectifier with R and RL load and plot load voltage and load current waveforms.</p>
  
 <h5> About the Lab (Objective) :
 </h5> <p align="justify">This lab is for understanding of the functioning of thyristor and its application as half wave controlled rectifier. At the end of the module the student would be able to understand the role of firing angle to control the DC value of output voltage and would be able to justify the name of controlled rectifier for such type of circuit.</p><br>
