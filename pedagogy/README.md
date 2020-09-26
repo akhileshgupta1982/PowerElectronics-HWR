@@ -11,11 +11,6 @@
 <b> Experiment</b>| <p align="justify"> <b> To obtain the simulation of single phase half wave controlled rectifier with R and RL load and plot load voltage and load current waveforms.</p></b>
 
 
-<h4> [1. Focus Area](#LO)
-<h4> [2. Learning Objectives ](#LO)
-<h4> [3. Instructional Strategy](#IS)
-<h4> [4. Task & Assessment Questions](#AQ)
-<h4> [5. Simulator Interactions](#SI)
 <hr>
 <br>
 <br>
