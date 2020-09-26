@@ -16,7 +16,9 @@
 <br>
 
 <a name="LO"></a>
-#### 1. Focus Area : Reinforce theoretical concept
+#### 1. Focus Area : 
+i. Reinforce theoretical concept<br>
+ii. Guided inquiry 
 #### 2. Learning Objectives and Cognitive Level
 
 
