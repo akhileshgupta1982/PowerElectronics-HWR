@@ -1,6 +1,6 @@
 ## Storyboard (Round 2)
 
-<b>Experiment 1</b>:To obtain the simulation of single phase half wave controlled rectifier with R and RL load and plot load voltage and load current waveforms.
+<b>Experiment</b>:<p align="justify">To obtain the simulation of single phase half wave controlled rectifier with R and RL load and plot load voltage and load current waveforms.</p>
 
 ### 1. Story Outline:
 
